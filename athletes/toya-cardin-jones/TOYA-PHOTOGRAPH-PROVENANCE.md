@@ -62,7 +62,7 @@ This supplemental archive preserves two uploaded image files absent from the ver
 - [Existing retained Library source file, `Toya_Jones_Dark_Cap_NYPost_Source_1280x720.jpg`](https://chatgpt.com/library?file_id=libfile_ef6c5a96ed6481918964359e58f56779&account_id=personal)
 - [Existing A1 Google Drive master research source](https://docs.google.com/document/d/1fBme6MRpkigCR4mOOW-DqQQdxvjbcNWYVrfIaqLtxeQ/edit)
 
-**Permanent GitHub image status:** The source JPEG's bytes have **not** been independently transferred to or verified in this GitHub folder in this consolidation run. This provenance correction does **not** count as a newly committed photograph, a replacement image, or a change to the existing website. A higher-resolution video master and exact original video timecode remain unverified.
+**Permanent GitHub image status — verified October 31, 2026:** The standalone 151,303-byte source JPEG was retrieved from the existing A1 Google Drive file and committed byte-for-byte directly as [Toya_Jones_Dark_Cap_NYPost_Source_1280x720.jpg](Toya_Jones_Dark_Cap_NYPost_Source_1280x720.jpg). GitHub readback confirmed image blob SHA `f2c43193b937adb6deeebe90bfdadd4e9cd941ce`. This is **one newly filed source image**, not a composite crop, AI-generated portrait or camera original. The existing website and all other images remain unchanged. Source/photographer attribution and reuse rights must be respected. A higher-resolution video master and exact original video timecode remain unverified.
 
 Other recovered candidate files are cataloged privately in the existing master record with their uploaded-file references. Their subject identification and earlier placement approvals have not been verified. They are not published here as confirmed Toya photographs.
 
