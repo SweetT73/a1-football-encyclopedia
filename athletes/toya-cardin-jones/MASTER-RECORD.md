@@ -28,3 +28,9 @@
 - **Long jump:** Toya Jones of Refugio won at **21 ft 9½ in**.
 - These are Texas Relays results, not UIL state-meet medals and not the June 1995 National Scholastic Championships result.
 - Source: University of Texas Athletics, *Texas Relays 2025 Record Book*, high-school event champions, printed pp. 30 and 32: https://texaslonghorns.com/documents/download/2026/3/18/TEXAS_RELAYS_2025_RECORD_BOOK_3_18_26.pdf
+
+## 1992 UIL Class 2A boys state triple jump — original contemporary newspaper
+
+- **May 16, 1992 — Memorial Stadium, University of Texas, Austin:** the Associated Press state-track results printed in the *Big Spring Herald* on **May 17, 1992, p. 5-B (PDF page 13)** list **Toya Jones, Refugio, FIRST in the Class 2A boys triple jump, 45 ft 11 in (45-11)**. This is the reported **1992 UIL state final**, not a Texas Relays or 1995 national scholastic result. [Original newspaper PDF, p. 13](https://newspapers.swco.ttu.edu/server/api/core/bitstreams/ac5e87a7-eb70-4724-8f6f-8b2599513eeb/content#page=13).
+- **Provenance:** The page image was inspected and the exact printed result transcribed in the permanent A1 Library source `Madden27_A1_MASTER_BUILD_HANDOFF.md`, section “Original newspaper evidence: Toya Jones and Woodsboro athletes,” October 26, 2026. This addition copies that established primary-source finding into Toya's own permanent record; it is not a new independent meet-sheet verification.
+- **Evidence limits:** The newspaper does not provide wind, attempts, or the exact time of the event. Preserve **45-11 as printed**, including if another retrospective source gives a different mark. Do not count the result twice in the career state-meet medal total, or treat this as a new medal beyond the existing state-meet accounting.
