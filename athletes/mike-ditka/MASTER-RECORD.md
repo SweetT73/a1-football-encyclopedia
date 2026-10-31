@@ -11,3 +11,9 @@
 ## Evidence boundaries
 
 No additional personal statistics or honors are inferred from this single annotated source. **The actual original photograph has not been newly committed to this GitHub folder or re-verified against its Library bytes**. No conversation is cleared for deletion.
+
+## Verified professional record and October 2026 obituary
+
+- **Mike Ditka died October 9, 2026, aged 86**, according to contemporaneous Reuters reporting. This fact is separate from the older 1963 photograph and does not establish its capture date. [Reuters, October 9, 2026](https://www.reuters.com/sports/legendary-coach-hall-fame-te-mike-ditka-dies-86--flm-2026-10-09/).
+- Played tight end for the **Chicago Bears, Philadelphia Eagles and Dallas Cowboys**. Reuters reports **427 career receptions, 5,812 receiving yards, 43 receiving touchdowns, five Pro Bowls and two first-team All-Pro selections**. [Reuters, October 9, 2026](https://www.reuters.com/sports/legendary-coach-hall-fame-te-mike-ditka-dies-86--flm-2026-10-09/).
+- A **1963 NFL champion as a Bears player** and later the **head coach of the Bears' 1985-season Super Bowl XX championship team**. These are different roles and seasons; do not credit the 1985 championship to Ditka as an active player. The Bears retired his **No. 89**. [Reuters](https://www.reuters.com/sports/legendary-coach-hall-fame-te-mike-ditka-dies-86--flm-2026-10-09/); [Pro Football Hall of Fame Bears team facts](https://www.profootballhof.com/teams/chicago-bears/team-facts).
