@@ -17,3 +17,9 @@
 ## Outstanding
 
 Full game-by-game statistics, independent image-file integrity check and conversation completeness remain unverified. Do not delete originals or mark any source conversation cleared.
+
+## Independent Chicago Bears historical corroboration
+
+- The **Chicago Bears' March 10, 2016 obituary** confirms Wade was the starting quarterback on the **1963 NFL championship team** and gives his Chicago totals across six seasons as **767 completions in 1,407 attempts, 9,958 passing yards, 68 touchdown passes and 66 interceptions**. These are **Bears-only totals**, not his complete NFL career. [Chicago Bears, “Ex-Bears QB Bill Wade passes away,” March 10, 2016](https://www.chicagobears.com/news/ex-bears-qb-bill-wade-passes-away-16919693).
+- The Bears report that in the **1963 title game** against the New York Giants, Wade completed **10 of 28 passes for 138 yards** and scored Chicago's only two touchdowns on **1-yard and 2-yard quarterback sneaks**. [Same original team account](https://www.chicagobears.com/news/ex-bears-qb-bill-wade-passes-away-16919693).
+- Wade died **March 9, 2016**, aged **85**, according to the Bears' March 10 announcement.
