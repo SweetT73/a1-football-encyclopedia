@@ -11,3 +11,7 @@
 ## Research safeguards
 - Do not assign Bill Wade's starting championship-game performance to Bukich.
 - No A1 conversation is certified fully cleared for deletion.
+
+## Visual examination of original A1 Library asset — October 31, 2026
+- Opened `01_Rudy_Bukich_User_Supplied.jpg`. It is a vintage-style **Rudy Bukich Bears No. 10 trading-card image** with a visible **RetroCards.net watermark** across the central photograph, red/blue borders, and the printed name. This is **not** an overlay-free standalone portrait. Retain the user-supplied source in its existing Library location pending comparison with a properly sourced, unwatermarked alternative; do not present it as a clean archival photograph or silently remove source attribution.
+- The image was **not transferred to GitHub** during this visual examination. No visually verified duplicate was established.
