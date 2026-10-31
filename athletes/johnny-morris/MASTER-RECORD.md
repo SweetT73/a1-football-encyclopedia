@@ -2,7 +2,7 @@
 
 ## Existing A1 photograph archive evidence
 
-The A1 Library document **`A1_Direct_Photo_Filing_Verified_Results_2026-10-14.md`** records seven photographs as previously **FILED AND SAVED** in the separate A1 Library permanent player folder:
+The A1 Library document **`A1_Direct_Photo_Filing_Verified_Results_2026-10-14.md`** records six photographs as previously **FILED AND SAVED** in the separate A1 Library permanent player folder:
 
 `/A1 All In 1 - Comprehensive History of American Football/A1 Historical Player Encyclopedia/Johnny_Morris/Photographs/`
 
