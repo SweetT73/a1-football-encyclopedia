@@ -129,3 +129,7 @@ Existing team page: [Refugio Bobcats](../../teams/high-school/refugio/index.html
 
 ### 1980–1982 weekly football report investigation — no unsupported numbers
 - Fresh searches pairing James Lott/Refugio with interceptions, tackles, specific playoff opponents, defensive plays and Littlefield in 1980–82 did not recover a readable **original game report attributing an individual action to Lott**. His personal 1980 and 1981 game appearances and 1980–82 tackles, interceptions, breakups and returns remain **unestablished, not zero**. Do not mistake the unrelated 1961 Refugio football player Claudia Lott or the 1955 James Thomas Lott for this James Lott. Priority remains a dated original game article with page citation and explicit individual attribution.
+
+## Texas Relays official meet-record register — 1987
+
+- The University of Texas Athletics *Texas Relays 2025 Record Book*, meet-records table for **Invitational Men/Elite**, lists **James Lott, Texas — high jump 7 ft 5½ in (2.27 m), 1987**, as the standing event-category meet record in that edition. This is a **Texas Relays Invitational Men/Elite meet-record mark**, not an NCAA championship, UIL championship, or a claim that it was his lifetime personal best. Source: [University of Texas Athletics, Texas Relays record book, printed p. 1, meet-records table](https://texaslonghorns.com/documents/download/2026/3/18/TEXAS_RELAYS_2025_RECORD_BOOK_3_18_26.pdf).
