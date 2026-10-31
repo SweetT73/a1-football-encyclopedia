@@ -21,3 +21,10 @@
 - This original-results addition was filed directly in Toya's permanent individual GitHub folder, not in temporary storage.
 - No new photograph was available from the 1995 results page for authentic archival filing.
 - No source conversation has been established as fully transferred and safe to delete. Original image completeness and the 1991–1994 game-level source audit remain unresolved.
+
+## 1995 Texas Relays — official high-school champions
+
+- **100 meters:** Toya Jones of Refugio won in **10.43 seconds**.
+- **Long jump:** Toya Jones of Refugio won at **21 ft 9½ in**.
+- These are Texas Relays results, not UIL state-meet medals and not the June 1995 National Scholastic Championships result.
+- Source: University of Texas Athletics, *Texas Relays 2025 Record Book*, high-school event champions, printed pp. 30 and 32: https://texaslonghorns.com/documents/download/2026/3/18/TEXAS_RELAYS_2025_RECORD_BOOK_3_18_26.pdf
