@@ -83,3 +83,19 @@
 
 - **February 2, 1998, Texas A&M Athletics:** In its contemporary report on the football team's annual awards banquet, the university explicitly identifies **Toya Jones, a junior from Refugio High School, as the team's special-teams captain**. It describes Jones as regularly being the first player downfield on kick coverage. [Original university release, “Football Award Banquet Honorees,” February 2, 1998](https://12thman.com/news/1998/02/02/football-award-banquet-honorees).
 - **Season and award distinction:** This banquet followed the **1997 football season**; the honor is **special-teams captain**, **not special-teams MVP**. The report assigns special-teams MVP to **Kyle Bryant**. Do not convert the qualitative kickoff-coverage description into a numerical tackle or games-started statistic. This adds an individually documented football leadership honor, not a new game-level play.
+
+
+## Professional football — independently tabulated XFL/CFL season statistics and transactions (October 31, 2026)
+
+**Source and classification:** [Pro Football Archives, Toya Cardin Jones player ledger](https://www.profootballarchives.com/players/j/jone22970.html), consulted October 31, 2026. This is a **retrospective statistical database**, not a newly inspected original 2001–2003 game sheet. Figures below are **professional**, not 1991–1994 Refugio high-school or 1995–1998 Texas A&M statistics. They should be checked against original league records before treating the database as primary evidence.
+
+| Season and league | Team / jersey / position as listed | Games | Individually tabulated statistics |
+| --- | --- | ---: | --- |
+| 2001 XFL | Birmingham Thunderbolts, **No. 13, safety** | **10 played, 0 started** | **5 tackles; 1 interception for 0 yards; 1 punt return for −1 yard** |
+| 2001 CFL | BC Lions, **No. 27, defensive back** | **17 played** | **64 tackles; 1 sack for 7 yards; 1 opponent-fumble recovery; 6 kickoff returns for 82 yards (long 17); 1 punt return for 0 yards** |
+| 2002 CFL | BC Lions, **No. 35, defensive back** | **7 played** | **17 tackles; 1 pass defended** |
+| **CFL total, 2001–2002** | BC Lions | **24 played** | **81 tackles** (64 + 17); the source separately totals **1 sack, 1 fumble recovery, 1 pass defended, 6 kickoff returns for 82 yards** |
+
+**Transactions listed by that database (not proof of regular-season NFL appearances):** San Francisco 49ers signed **April 23, 1999**, released **September 6, 1999**; Denver Broncos signed **February 16, 2000**, released **June 11, 2000**; BC Lions signed **May 28, 2001**; Houston Texans signed **February 13, 2002**, released **August 27, 2002**; Toronto Argonauts signed **May 1, 2003**, later released (date not specified). The ledger lists no Toronto games or NFL regular-season games. **Do not convert a signing or roster listing into a played game.**
+
+**Measurement discrepancy:** This database gives **6 ft 1 in, 199 lb**, whereas the original July 30, 1995 McDonald's All-Star newspaper roster gives **6 ft 3 in, 195 lb**. Both remain source-specific published measurements, not interchangeable verified physical measurements. The source's defense subcolumns include unexplained abbreviations; do not infer their definitions or sum them into extra tackles. These figures supplement, rather than duplicate, the separately documented 1998 collegiate special-teams plays above.
