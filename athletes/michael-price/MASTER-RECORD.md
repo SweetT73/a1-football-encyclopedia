@@ -18,3 +18,10 @@
 - The article says he reached the **NCAA 200-meter semifinals twice**; years and precise places are not given.
 - The article identifies Price, Billy Fobbs, Toya Jones and Danny McCray as members of Texas A&M's **1997 national-champion 4×100-meter relay**. Do not invent relay legs, splits or the championship result beyond what the source establishes.
 - [Tom Kennedy, “Changing of the guard,” *The Battalion*, May 7, 1999, p. 13](https://newspaper.library.tamu.edu/lccn/sn86088544/1999-05-07/ed-1/seq-13.pdf).
+
+
+## 1997 NCAA men's 4 × 100 m relay — exact university-record-book result
+
+- **June 6, 1997, Bloomington, Indiana — NCAA final:** Texas A&M's published historical track-and-field performance register lists **Michael Price, Toya Jones, Billy Fobbs and Danny McCray** as the Aggies' men's **4 × 100 m relay team**, with an official listed performance of **38.80 seconds**, annotated **“1) NCAA Final”**. [Texas A&M Athletics historical track performance register, PDF](https://12thman.com/documents/download/2015/6/30/1.pdf).
+- **Corroboration:** Tom Kennedy's contemporary *The Battalion* report, **May 7, 1999, p. 13**, independently identifies the same four men as members of the **1997 national-championship relay**. [Original 1999 newspaper](https://newspaper.library.tamu.edu/lccn/sn86088544/1999-05-07/ed-1/seq-13.pdf).
+- **Scope and uncertainty:** The 38.80 time and first-place NCAA final result are from a **later university historical record book**, not an original 1997 timing sheet. The two sources do not specify each runner's **1997 relay leg or individual split**. Do not transfer the **planned 1999 lineup order** into the 1997 championship, or count this team title as an individual sprint championship or UIL medal.
