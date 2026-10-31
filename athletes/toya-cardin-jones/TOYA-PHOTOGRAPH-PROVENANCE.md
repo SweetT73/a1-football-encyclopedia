@@ -55,7 +55,14 @@ This supplemental archive preserves two uploaded image files absent from the ver
 
 ## Still unresolved
 
-The clean dark-baseball-cap portrait described as the left photograph in the New York Post composite has not been recovered. An overlaid composite or a crop is not a clean original.
+**Updated October 31, 2026 from the existing Toya A1 master research document:** The previously missing dark-cap image was recovered on **October 28, 2026** as a standalone publisher-hosted **1280 × 720 JPEG** (151,303 bytes), rather than a crop of the overlaid two-photo composite. The source describes it as a **published video still**, not an original camera photograph or watermark-free master. New York Post caption: “Toya Jones being interviewed during a Texas A&M event”; credited “Youtube/Texas A&M Athletics.” The Texas A&M logo and interview microphone remain visible. Reported SHA-256: `45edd4a79e78b29d97d2cb80ce214bda86d9b8dae3c3ce4373840fc517bb16e0`.
+
+- [Original standalone publisher image](https://nypost.com/wp-content/uploads/sites/2/2026/10/texas-m-football-star-high-146160313.jpg)
+- [New York Post October 22, 2026 article](https://nypost.com/2026/10/22/sports/toya-jones-texas-am-football-track-star-dead-at-49/)
+- [Existing retained Library source file, `Toya_Jones_Dark_Cap_NYPost_Source_1280x720.jpg`](https://chatgpt.com/library?file_id=libfile_ef6c5a96ed6481918964359e58f56779&account_id=personal)
+- [Existing A1 Google Drive master research source](https://docs.google.com/document/d/1fBme6MRpkigCR4mOOW-DqQQdxvjbcNWYVrfIaqLtxeQ/edit)
+
+**Permanent GitHub image status:** The source JPEG's bytes have **not** been independently transferred to or verified in this GitHub folder in this consolidation run. This provenance correction does **not** count as a newly committed photograph, a replacement image, or a change to the existing website. A higher-resolution video master and exact original video timecode remain unverified.
 
 Other recovered candidate files are cataloged privately in the existing master record with their uploaded-file references. Their subject identification and earlier placement approvals have not been verified. They are not published here as confirmed Toya photographs.
 
