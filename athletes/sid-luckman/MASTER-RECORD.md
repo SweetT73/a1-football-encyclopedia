@@ -17,3 +17,7 @@
 ## Outstanding
 
 Exact memorabilia provenance, original photo transfer, and conversation/attachment completeness remain unresolved. Do not infer undocumented personal appearances or mark any conversation cleared.
+
+## Verified original-image duplicate — October 31, 2026
+
+The existing October 10 A1 source ZIPs were recovered and their **208 member files were checked against the October 14 SHA-256 reconciliation**. The two separately named Sid Luckman source files **`10526.jpg` and `10527.jpg` are byte-for-byte identical**, both with SHA-256 `fa18b4197586daf9529c02b74bcf3f8825f920ff5fd1a301d8e693028f2fb43a`. The October 14 record assigns both to the same **`Sid_Luckman/Photographs/06_Sid_Luckman_No42_Black_and_White_Throw.jpg`** destination. Count **one unique original image**, not two. Preserve the original ZIP evidence, and do not import a second GitHub copy. No image bytes were committed or source originals deleted during this verification.
