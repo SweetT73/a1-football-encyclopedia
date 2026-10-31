@@ -20,3 +20,12 @@
 ## Permanent A1 cross-reference
 
 Existing team page: [Refugio Bobcats](../../teams/high-school/refugio/index.html).
+
+## Additional source-verified Refugio achievements (October 31, 2026)
+- **1982 high-school football:** the Texas High School Football Hall of Fame's James Lott biography identifies him as a **first-team All-State defensive back** and a **Parade All-American**, and names him on *Texas Football* magazine's **1980s All-Decade Team**. [THSFHOF biography republished by Dave Campbell's Texas Football](https://www.davecampbells.com/hall-of-fame/james-lott). The Hall biography does not supply a game-by-game 1982 stat line.
+- **1982 Texas Relays high-school boys high jump:** James Lott, Refugio, **winner, 7 ft 0 in**. **1983 Texas Relays:** winner, **7 ft 2½ in**. [University of Texas Athletics, Texas Relays historical champions](https://texaslonghorns.com/sports/2013/10/25/relays_1025135054). These are Texas Relays results, not the 1983 UIL state-meet 7 ft 4¾ in result above.
+- **1980–1982 team context:** Refugio team season records are reported as **1980 9–2, 1981 11–1, 1982 15–1** by [Lone Star Football Network](https://www.lonestarfootball.net/team.asp?B=1549&REC=16-3-0&S=&T=1194). These are team records, not proof of Lott's appearance, starting role or personal statistics in each season.
+- **Source discrepancy:** The [THSFHOF biography](https://www.davecampbells.com/hall-of-fame/james-lott) describes **four NCAA championships**, while [UT's own Hall of Honor biography](https://texaslonghorns.com/honors/hall-of-honor/james-lott/886/kiosk) enumerates **three NCAA individual high-jump titles** (1986 indoor/outdoor and 1987 indoor). Preserve both source statements and use the specifically enumerated three-title count for verified individual titles until the discrepancy is resolved. Do not fabricate a fourth title.
+- **Additional research lead:** Prior A1 conversations mention a 2025 Texas Track & Field Coaches Association Hall of Fame induction, 1987 World University Games results, and 1989–1990 Arena Football League appearances. Those details are not independently verified in this entry; preserve as research leads rather than established statistics.
+
+**Photo status:** The Hall of Fame and University of Texas biographies contain an image reference, but no original licensed photo file was downloaded or committed to A1 in this update. The image is not declared preserved.
