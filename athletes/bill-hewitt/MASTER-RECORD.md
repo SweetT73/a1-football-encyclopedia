@@ -9,3 +9,9 @@
 
 ## Permanent filing rule
 Append only newly established individual facts with original citations, preserving contradictory evidence separately. Do not create temporary folders, staging records or checkpoint files.
+
+## Recovered original-photo provenance — October 31, 2026
+
+The October 10, 2026 A1 source ZIP **PART_04_of_04** was recovered and visually inspected in memory. The source filenames **`10641.jpg` through `10650.jpg`** contain ten distinct-byte historical Bears-era photo, portrait and trading-card images. Several clearly display uniform **No. 87**, matching the previously approved A1 Bill Hewitt photo grouping. These are **not ten verified standalone photographs of Hewitt**: some are trading cards or group compositions, and photographer attribution, dates and the identity of every pictured person remain to be authenticated.
+
+All ten source SHA-256 checksums match the October 14 A1 208-originals reconciliation, and no exact-byte duplicate occurs within these ten files. This entry preserves visual grouping and original ZIP provenance; **none of the ten original image bytes was committed to GitHub**. Do not treat the original ZIP's recovery as successful GitHub image placement, and do not delete the original source.
