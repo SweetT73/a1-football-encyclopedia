@@ -14,7 +14,20 @@
 
 ## Existing illustrated source and historical photographs
 
-The user's [A1 John Heisman illustrated seven-photograph profile](https://drive.google.com/file/d/1lm-qxiwxpeRQcRtAOUC6jQrwQp7KEnPk/view) is an existing, permanent Drive document. It contains seven distinct embedded historical images, including the 1890 Penn team, an early football action pose, a Buchtel College pose, an unidentified early team, a 1903 Clemson team, an early football-era portrait and a formal portrait. Their captions are preserved in the original Drive source. The unidentified team image has **no confirmed Heisman identification** and must not be presented as a verified portrait. Photographer credits, dates and original provenance are incomplete. These embedded source images are not counted as newly committed GitHub photographs until their image bytes have been individually transferred and verified.
+The user's [A1 John Heisman illustrated seven-photograph profile](https://drive.google.com/file/d/1lm-qxiwxpeRQcRtAOUC6jQrwQp7KEnPk/view) is an existing, permanent Drive document. It contains seven distinct embedded historical images, including the 1890 Penn team, an early football action pose, a Buchtel College pose, an unidentified early team, a 1903 Clemson team, an early football-era portrait and a formal portrait. Their captions are preserved in the original Drive source. The unidentified team image has **no confirmed Heisman identification** and must not be presented as a verified portrait. Photographer credits, dates and original provenance are incomplete. **Six distinct embedded source-image files were transferred byte-for-byte into this permanent GitHub folder and verified by GitHub file-path and blob-SHA readback on October 31, 2026:**
+
+| Permanent image file | Existing A1 source caption / limits |
+| --- | --- |
+| [1890-penn-team-source.png](1890-penn-team-source.png) | 1890 Penn football team; existing source identifies Heisman as second row, second from right. Identification is source-attributed. |
+| [early-football-pose-source.jpg](early-football-pose-source.jpg) | Early football pose holding a ball; date not confirmed. |
+| [1893-buchtel-penn-sweater-source.jpg](1893-buchtel-penn-sweater-source.jpg) | Existing caption: Buchtel College with University of Pennsylvania letter sweater, 1893 appointment; exact photo date not independently established. |
+| [1903-clemson-team-source.png](1903-clemson-team-source.png) | 1903 Clemson team group, Heisman's coaching era; no individual identifications inferred. |
+| [early-football-attire-source.jpg](early-football-attire-source.jpg) | Early football attire; date not confirmed. |
+| [formal-portrait-source.jpg](formal-portrait-source.jpg) | Formal Heisman portrait; date not confirmed. |
+
+**Excluded from the GitHub individual folder:** The seventh embedded image is an unidentified early team group photograph. Its team, date and subject positions are unconfirmed, so it was not filed as a verified Heisman photograph. The original Drive HTML remains untouched.
+
+These six GitHub files are **exact binary copies of the images embedded in the existing A1 Drive HTML**, not newly authenticated camera negatives or independently licensed originals. No crops, retouching, or AI image generation were performed.
 
 The existing A1 profile cites:
 - [Ivy Rugby Conference — The Legend of John Heisman](https://www.ivyrugby.com/news/legend-john-heisman)
