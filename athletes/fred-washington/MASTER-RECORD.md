@@ -12,3 +12,8 @@
 ## Research safeguards
 - No unverified tackles, sacks, starts, or individual game plays are inferred from team records.
 - No A1 conversation is certified fully cleared for deletion.
+
+## Visual examination of existing A1 Library card files — October 31, 2026
+- Independently opened `01_Fred_Washington_1990_ProSet_SecondRound_No91.jpg` and `01_Fred_Washington_1990_ProSet_SecondRound_No91(2).jpg`. Both render the **same visible 1990 Pro Set draft-card image**: Chicago Bears defensive tackle No. 91, opposing Seattle player partly visible at left, orange '1990 Draft, Second Round' header. Each file is reported as **417,138 bytes**. **Likely redundant visual copies**, but byte-for-byte identity has not been independently proven, so neither original was deleted. Preserve one verified original before removing extra copies.
+- The card catalog identifies this design as **1990 Pro Set card No. 701**; 'No. 91' in Library filenames refers to Washington's **jersey**, not the card's catalog number. [Trading Card Database](https://www.tcdb.com/ViewCard.cfm/sid/3252/cid/828726/1990-Pro-Set-701-Fred-Washington).
+- The image contains manufacturer text and a player photograph as part of the original printed trading card. It is a **trading-card reference**, not a clean standalone photographic original.
