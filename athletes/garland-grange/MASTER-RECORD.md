@@ -24,7 +24,16 @@ That profile cites:
 
 ## Original photograph provenance and safeguards
 
-The existing A1 illustrated profile includes user-supplied historical photographs embedded in its Drive HTML. One caption identifies Garland Grange at left wearing Red's coat and Red Grange at right during the 1925–1926 Bears barnstorming tour. **This is the existing A1 caption attribution, not a newly verified identity from a separate photographic source.** The embedded image bytes were not independently transferred to this GitHub folder in this pass. Do not substitute a lookalike, invent a portrait, or count these images as newly archived GitHub files.
+The existing A1 illustrated profile includes user-supplied historical photographs embedded in its Drive HTML. One caption identifies Garland Grange at left wearing Red's coat and Red Grange at right during the 1925–1926 Bears barnstorming tour. **This is the existing A1 caption attribution, not a newly verified identity from a separate photographic source.** **October 31, 2026 permanent transfer:** All four visually distinct embedded historical images from the existing A1 Garland Grange Drive HTML were copied byte-for-byte directly into this individual GitHub folder and verified by path and Git blob SHA. No image generation, cropping, retouching or re-encoding was performed.
+
+| Permanent image | Existing source caption (not independently authenticated) |
+| --- | --- |
+| [grange-brothers-childhood-cowboys-source.jpg](grange-brothers-childhood-cowboys-source.jpg) | Red at left, Garland at right, childhood cowboy outfits, approximately 1914. |
+| [grange-brothers-wheaton-ice-truck-source.png](grange-brothers-wheaton-ice-truck-source.png) | Red at left and Garland at right with an ice block at their Wheaton delivery truck. |
+| [garland-red-grange-1929-football-source.jpg](garland-red-grange-1929-football-source.jpg) | Garland at left and Red at right, on the football field, source-captioned 1929. |
+| [grange-brothers-barnstorming-coats-source.jpg](grange-brothers-barnstorming-coats-source.jpg) | Garland at left wearing Red's coat and Red at right, source-captioned 1925–1926 tour. |
+
+These are preserved **source copies**, not independently authenticated camera originals. The precise dates, photographic credits and each person's identification remain attributed to the original A1 captions, rather than newly inferred from facial appearance. Do not substitute a lookalike or invent a portrait.
 
 ## Research integrity
 
