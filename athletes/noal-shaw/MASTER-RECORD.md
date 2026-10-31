@@ -11,3 +11,7 @@
 ## Not established
 
 No game-by-game appearances, starts, interceptions, tackles, 1982 awards, college history, or authentic photograph is established by this source. No original photograph was recovered or committed with this record. No conversation is certified safe for deletion.
+
+## Name-spelling discrepancy in historical rosters
+
+- The 2010 Billy Wilbanks compilation of the **1981 Texas Sports Writers Class 3A second-team defensive backs** prints **“Shaw, Noel — Refugio”**, whereas the contemporary *Hondo Anvil Herald* January 14, 1982 report prints **“Noal Shaw.”** Preserve the contemporary newspaper spelling **Noal** as the archive heading while recording **Noel** as a documented variant, not proof of a separate athlete. [Historical compilation](https://txswa.org/All-State%201921-2010/3-Football-1981-1995.pdf); [contemporary original](https://texashistory.unt.edu/ark:/67531/metapth817368/m1/12/).
