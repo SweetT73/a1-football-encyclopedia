@@ -27,7 +27,17 @@ The existing Drive profile is a **working research source**, not a claim that al
 
 ## Photographs — evidence, not yet GitHub assets
 
-The Drive profile inventories five user-supplied photographs under these filenames: `Red-Grange-number-77-portrait.jpg`, `Red-Grange-color-portrait.jpg`, `Red-Grange-color-full-length.jpg`, `Red-Grange-number-77-Getty-credit.jpg`, and `Red-Grange-football-portrait.jpg`. It reports the originals preserved in its original folder, but the image bytes were **not independently recovered or committed to this GitHub folder** in this pass. Preserve any visible Getty credit; do not remove watermarks, substitute images, or count filenames as verified GitHub photographs.
+The Drive profile inventories five user-supplied photographs under these filenames: `Red-Grange-number-77-portrait.jpg`, `Red-Grange-color-portrait.jpg`, `Red-Grange-color-full-length.jpg`, `Red-Grange-number-77-Getty-credit.jpg`, and `Red-Grange-football-portrait.jpg`. **October 31, 2026 verified transfer:** All five distinct source JPEGs were retrieved as raw bytes from the existing A1 Google Drive originals, inspected visually, checked for exact duplicates among these five (none), committed directly into this individual's permanent GitHub folder, and read back by file path and Git blob SHA. They are source-file copies, not independently authenticated camera negatives.
+
+| Permanent image | Source notes |
+| --- | --- |
+| [Red-Grange-number-77-portrait.jpg](Red-Grange-number-77-portrait.jpg) | Black-and-white helmet and No. 77 portrait with ball. |
+| [Red-Grange-color-portrait.jpg](Red-Grange-color-portrait.jpg) | Historical color image, waist-up football portrait. |
+| [Red-Grange-color-full-length.jpg](Red-Grange-color-full-length.jpg) | Historical color full-length football portrait. |
+| [Red-Grange-number-77-Getty-credit.jpg](Red-Grange-number-77-Getty-credit.jpg) | Black-and-white running pose with visible **Getty Images / Bettmann** credit retained exactly as supplied. |
+| [Red-Grange-football-portrait.jpg](Red-Grange-football-portrait.jpg) | Black-and-white football portrait with ball. |
+
+Original source image filenames and image bytes were preserved without cropping, retouching, re-encoding or generation. The Getty watermark and attribution must remain; the archive does not grant publication rights.
 
 ## Editorial safeguards
 
