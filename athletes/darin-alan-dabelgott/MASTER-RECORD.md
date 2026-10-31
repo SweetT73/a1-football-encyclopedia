@@ -13,3 +13,8 @@
 - Exact college position, measurements, professional football participation and original athlete portrait remain unverified.
 - Source provenance: Sweet T's prior Woodsboro identification and the permanent Library file `DARIN_ALAN_DABELGOTT_WOODSBORO_A1.md`, retrieved October 31, 2026. No unreviewed conversation or photograph is declared cleared.
 - This record is the person's permanent A1 home. No duplicate photo files or temporary folders have been created.
+
+## Primary-source box-score verification — October 31, 2026
+
+- **October 1, 1994, West Texas A&M 35, Midwestern State 28**, Memorial Stadium, Wichita Falls, Texas: the **official Midwestern State Athletics game box score explicitly names Darin Dabelgott** in West Texas A&M's individual rushing table, crediting **3 carries, 8 net rushing yards, 0 rushing touchdowns, long run 5 yards, 2.7 yards per carry**, with **8 yards gained and 0 lost**. [Original institutional box score](https://msumustangs.com/sports/football/stats/1994/west-texas-am/boxscore/3581). This independently verifies the prior A1 Library note's 3–8–5 line and his participation in **this specific 1994 collegiate football game**.
+- The result verifies one individual appearance and rushing contribution, **not** a season total, primary position, start, 1992 high-school statistics, or additional years of collegiate participation. The game page's score and opponent details are team context only.
