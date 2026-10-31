@@ -12,3 +12,7 @@ The name **Calvin Lewis** is shared by other people in unrelated public material
 - No new authentic photographs verified or saved here.
 - No source conversation has yet been fully verified as transferred and cleared.
 - Additional facts belong in **this permanent record**, not a temporary file. Preserve unique evidence with citations as it becomes verifiable.
+
+## Unmatched identity lead
+
+A historical Texas Sports Writers roster lists **Calvin Lewis, Bryan High School, 1984 Class 5A first-team defensive lineman**. This does not establish that he is the Calvin Lewis named by Sweet T. Do not merge identities without independent evidence. Source: https://txswa.org/All-State%201921-2010/3-Football-1981-1995.pdf .
