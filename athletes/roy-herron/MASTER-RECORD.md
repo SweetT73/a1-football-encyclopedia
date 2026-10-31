@@ -15,3 +15,9 @@ No source conversation is marked cleared.
 - These football honors precede his separately preserved **1993 Refugio 4 × 100 m relay** association above. They do not establish a particular football game, start, tackle or interception.
 
 **Source:** Billy Wilbanks, Texas Sports Writers Association, historical All-State football compilation (2010), 1981–1995 volume, **1992 APSE Class 2A first-team defense and Defensive Player of the Year entries**: https://txswa.org/All-State%201921-2010/3-Football-1981-1995.pdf . The original 1992 AP newspaper publication remains to be located for direct confirmation.
+
+## Original December 15, 1992 newspaper — newly recovered individual defensive production
+
+- **Original contemporary report:** *Big Spring Herald*, **Tuesday, December 15, 1992**, Associated Press Sports Editors **Class 2A All-State** article and player statistical listings. The original scan names **“DB Roy Herron, Refugio”**, **senior**, and lists **seven interceptions returned for 323 yards and four touchdowns**; **44 solo tackles**, **two forced fumbles**, and **two fumble recoveries**. These are **published season figures in the All-State report**, not verified single-game totals.
+- The newspaper OCR obscures the **overall tackles** figure and some listed measurements; do not substitute an invented number. The independently legible **44 solo tackles** are a component, not necessarily the overall tackle count.
+- **Original newspaper scan:** https://newspapers.swco.ttu.edu/server/api/core/bitstreams/1eddd014-7450-4d02-ae1d-4eca2199b995/content (December 15, 1992, Class 2A All-State section; OCR at “DB Roy Herron”). This contemporaneous AP list is stronger evidence for the statistics than the later roster compilation, which does not include them.
