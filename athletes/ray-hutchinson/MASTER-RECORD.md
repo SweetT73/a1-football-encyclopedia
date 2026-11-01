@@ -21,3 +21,11 @@ Texas A&M–Kingsville's April 26, 2023 *Javelina Highlights* (p. 11, Region IV-
 - **High-school boys 110-meter hurdles final, Austin, April 6–9, 1983:** **Second place, 13.78 seconds**, behind Victor Moore (13.69). The results list final-round wind **+1.8 m/s**. The preliminary results separately list Hutchinson **second in Heat 3, 14.01 seconds** (reported wind **+2.8 m/s**). Do not conflate these times with the separate 1983 regional-meet 13.45-second record already above.
 - **High-school boys 400-meter relay, Heat 1:** Hutchinson ran on Refugio's team with **Eugene Whitmire, Maurice Shaw and Kent Harris**, **fourth in the preliminary heat**. The fourth-place time appears **43.58 seconds** in the original scan, but the extracted column alignment is imperfect, so the exact electronic time remains provisional. This is not fourth overall in the final.
 - **Original source:** [University of Texas Athletics, *1983 Texas Relays*, original meet results, high-school events 36 and 42](https://texaslonghorns.com/documents/download/2019/6/19/TEXASRELAYS83Cont2.pdf). These are track results, not new football statistics. No photo recovered from the results.
+
+## Official UIL state championships — 1982 and 1983 (October 31, 2026)
+
+The University Interscholastic League's **official historical boys individual champions register** lists Ray Hutchinson of **Refugio** as the **Class 3A 110-meter hurdles STATE CHAMPION in two consecutive seasons**:
+- **1982 (1981–82 school year): first, 13.60 seconds.**
+- **1983 (1982–83 school year): first, 13.40 seconds.**
+
+**Primary official source:** [UIL Track & Field Historical Archive, Boys Individual State Champions, 1981–82 and 1982–83 Class 3A](https://wwwprod.uiltexas.org/track-field/historical-archive). These are **two separate UIL state championships** and should not be confused with his **1983 Texas Relays second-place 13.78** or **1983 regional-meet 13.45** results already documented. No additional football performance or photograph is established by this source.
