@@ -403,3 +403,10 @@ Existing team page: [Refugio Bobcats](../../teams/high-school/refugio/index.html
 
 ### High-school football search and unresolved lead
 - Fresh 1980–82 searches for Lott paired with **Refugio, Littlefield, Sweeny, Medina Valley, Port Isabel, all-state rosters, interceptions and game recaps** did **not** reveal a readable original weekly article assigning Lott an individual tackle, interception, pass breakup, return or start. **1980, 1981 and 1982 personal season minimums remain unestablished, not zero.** Continue issue-by-issue regional-paper and microfilm work; avoid the already documented missing 1980–82 digitization years in the UNT Refugio County Press collection.
+
+## Original 1983 Texas Relays — additional high-school event results (October 31, 2026)
+
+- **Boys 110-meter hurdles, final, April 6–9, 1983, Austin:** **James Lott of Refugio placed FOURTH, 14.15 seconds**; the original results report final wind **+1.8 m/s**. The same meet sheet lists him **second in preliminary Heat 1, 14.27 seconds**, with **+1.6 m/s** wind. These are Texas Relays results, **not** his separate 1983 UIL state-meet second-place 13.7-second result. **Original source:** [University of Texas Athletics, 1983 Texas Relays, event 36](https://texaslonghorns.com/documents/download/2019/6/19/TEXASRELAYS83Cont2.pdf).
+- **Boys long jump, final, same Texas Relays:** **SEVENTH, 21 ft 10½ in (6.67 m)**, listed under the scanned misspelling **“Regufio HS.”** This is not the 1983 UIL state title at 24 ft 1 in and is not another long-jump victory. [Same original Texas Relays results, boys long jump](https://texaslonghorns.com/documents/download/2019/6/19/TEXASRELAYS83Cont2.pdf).
+- The already preserved **1983 Texas Relays high-jump WIN at 7 ft 2½ in** remains a separate event at the same meet; do not count it twice. No original photograph accompanies this results source.
+- **1980–1982 Refugio football remains unresolved at the individual game level.** None of these 1983 track marks proves a high-school football interception, tackle, start, or season appearance.
