@@ -16,3 +16,7 @@ The name **Calvin Lewis** is shared by other people in unrelated public material
 ## Unmatched identity lead
 
 A historical Texas Sports Writers roster lists **Calvin Lewis, Bryan High School, 1984 Class 5A first-team defensive lineman**. This does not establish that he is the Calvin Lewis named by Sweet T. Do not merge identities without independent evidence. Source: https://txswa.org/All-State%201921-2010/3-Football-1981-1995.pdf .
+
+## Distinct 1968 Refugio Lewis athletes — original-source identity safeguard (October 31, 2026)
+
+An original **December 5, 1968 *Refugio Timely Remarks*, page 8**, identifies **Eugene “Bull” Lewis** as a Refugio quarterback/halfback/kicker and separately lists **Edward Lewis** as a Refugio end. Their original 1968 records are preserved in [Eugene “Bull” Lewis](../eugene-bull-lewis/MASTER-RECORD.md) and [Edward Lewis](../edward-lewis-refugio-1968/MASTER-RECORD.md). **Neither athlete is verified as Calvin Lewis**, and none of their individual game statistics is attributed to Calvin. Original source: https://texashistory.unt.edu/ark:/67531/metapth651690/m1/8/ .
