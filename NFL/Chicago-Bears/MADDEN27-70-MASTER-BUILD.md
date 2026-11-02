@@ -61,14 +61,9 @@ Sweet T directly reported **29 visibly incorrect player complexions** when inspe
 
 **Unapproved experiments:** v14 contains 13 provisional face swaps. None has been approved, and none is to replace the original file as a baseline.
 
-## Production status
-1. [x] Existing original complete JSON located, retrieved, cryptographic hash verified.
-2. [x] 70 slots and 70 unique IDs verified programmatically.
-3. [x] Full roster positions and current original OVRs extracted, cataloged in the permanent A1 Bears team location.
-4. [ ] First head pass, starting **Jim McMahon**, five authentic photographs + full head comparison.
-5. [ ] Validate acceptable head in Team Builder; save separate corrected build with zero mutation outside authorized appearance fields.
-6. [ ] Finish group 1 (13), group 2 (16), and remaining 41 in established order; test import/persistence and gameplay.
-7. [ ] Build remaining protected Bears in additional player batches without changing locked 70 membership.
+## Individual player records
+
+Each of the 70 has its own permanent directory with a profile and published webpage under `NFL/Chicago-Bears/players/`. Go to [the roster directory](ROSTER.md) and select any player.
 
 ## Source provenance
 - Authoritative internal Library: `A1_Bears_Locked70_FINAL_IMPORT_v10.build.json`; `Madden27_A1_Conversation_Master_Handoff_2026-10-10.md`; `A1_Bears_Head_Pass_Checkpoint_2026-10-11.md`; `A1_Bears_First_Protected_Pool_2026-09-30.md`.
