@@ -83,3 +83,23 @@
 - The original v10 head mappings are retained as evidence, not automatically accepted face matches. Thirteen later v14 experimental selections were never approved.
 - No player is dropped because the first Team Builder shell supports 70. Additional historical Bears players belong in their individual permanent archive records, without altering approved membership.
 - For every player, newly confirmed biographical sources, research and images belong directly in that person's folder. No staging, temporary or checkpoint folders.
+
+## Historical position distinctions
+- **George McAfee:** TRUE halfback, playable cornerback in this roster.
+- **George Halas:** TRUE historical receiver, roster right-edge defense; preserve his coaching/ownership historical record separately.
+- **Ken Kavanaugh:** TRUE wide receiver, roster tight end.
+- **William Perry:** TRUE defensive tackle; fullback appearances require a distinct OOP record.
+- Preserve all original roster positions, attributes, individual identities, birth data, college data, equipment, and player IDs unless a correction is specifically supported and approved.
+
+## Appearance verification integrated into each player file
+
+Sweet T observed 29 wrong complexion/head renderings in Team Builder. They all remain unresolved. This is not grounds to stop publishing the player's correctly identified records. **Fix the specific player's file when a better verified match is found.** Preserve the original v10 until correction is approved and validated.
+
+**Priority order, previously modified without validated appearance matching (13):** Jim McMahon; Bill Wade; Red Grange; Harlon Hill; George Musso; Jay Hilgenberg; Keith Van Horne; George Halas; Steve McMichael; Fred Williams; Dick Butkus; Bill George; Dave Duerson.
+
+**Other explicitly identified wrong-appearance players (16):** Gary Fencik; Brian Urlacher; Doug Atkins; Ed Sprinkle; Sid Luckman; Johnny Morris; Mike Ditka; Jimbo Covert; Bob Wetoska; Danny Fortmann; Ed O'Bradovich; Dan Hampton; George Connor; Ron Rivera; George McAfee; Richie Petitbon.
+
+**Remaining 41:** all still require actual visual review. For each correction inspect at least five authentic historical photographs, assess visible tone and facial structure, inspect the 330-head in-game reference catalog, compare facial shape/features, verify precise technical head ID, and check final visible rendering. Never represent an unreviewed face as having met the required 93% likeness standard. v11–v14 experimental head changes were not approved.
+
+## Source documentation
+The original protected v10 roster and associated head screenshots and catalog remain in the permanent A1 Library. Player data is filed directly under that player's own Bears folder, not held for a later filing pass. The official Bears Top 100 and original historical team roster sources are research references, **not** the formula for A1 player ratings.
