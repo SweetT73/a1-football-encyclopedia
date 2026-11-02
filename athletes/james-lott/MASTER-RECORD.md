@@ -700,3 +700,9 @@ The four performances below were checked against the existing master record befo
 ### Football priority and source boundaries
 - Searches in this pass targeted **1980–1982 Refugio football**, including James Lott, interceptions, and the **Sweeny, Navasota, Littlefield** playoff opponents. No newly accessible original weekly game article established any **Lott-specific** tackle, interception, pass defended, return, or start. Do not invent individual game statistics or infer them from team scores or all-state honors. No new football season minimum is defensible from this pass.
 - The 1989 results above do **not** alter or settle the already preserved 1986 SWC indoor high-jump attribution conflict.
+
+
+## November 1, 2026 — 1988 New Delhi original international result
+
+- **September 5–6, 1988, New Delhi, India:** James Lott (Nike) placed **third in the men's high jump at 7 ft 4½ in (2.25 m)**. The original contemporary results give Sonn (West Germany) first and Mike Pascuzzo (NYAC) second, each also clearing 7 ft 4½ in. This is the published placing, not a three-way tie. Exact high-jump day and attempt sequences are not supplied. **Original page image individually inspected:** *Track Newsletter*, December 23, 1988, volume 34, number 26, printed page 195, [original PDF page 1](https://trackandfieldnews.com/wp-content/uploads/2020/09/eTN1988_26.pdf#page=1). This is distinct from his previously archived Bern, Edinburgh and other 1988 appearances.
+- **1980–1982 Refugio football:** Searched again for original game reports crediting Lott individually, including Sweeny, Navasota and Littlefield; none newly accessible established tackles, interceptions, pass breakups, returns or starts. All personal game statistics and defensible season minima remain unknown, not zero. Do not count team totals as Lott's.
