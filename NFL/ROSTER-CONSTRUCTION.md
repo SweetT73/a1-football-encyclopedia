@@ -35,3 +35,13 @@ Determine how to build ONE complete NFL-wide custom roster with historical playe
 
 ## Archive rules
 Update THIS permanent document or subsequent permanent A1 build documentation directly. No temporary folders, checkpoints, or duplicate files. Verify before replacing established content; no unsupported claims. Keep unrelated A1 athlete biographies and images untouched. Preserve sources and exact version applicability.
+
+
+## Permanent player-slot data structure
+
+An uploaded Madden 27 technical schema provided the following reusable **draft record structure**. Retain the substantive structure in this permanent A1 technical document, not as a separate bridge, handoff, or checkpoint artifact. It is a proposed A1 data representation, **not evidence that Madden NFL 27 accepts this as an import format**.
+
+- A roster/build record may contain an array of player slots. Each slot requires a position code and a structured `fields` object.
+- Optional per-slot fields: `slotIndex` (nonnegative integer), `visuals` (structured appearance object), and `gear` (equipment array).
+- Position codes defined by the draft: `QB`, `HB`, `FB`, `WR`, `TE`, `LT`, `LG`, `C`, `RG`, `RT`, `LEDG`, `REDG`, `DT`, `SAM`, `MIKE`, `WILL`, `CB`, `FS`, `SS`, `K`, `P`, `LS`.
+- The draft did not specify internal player-attribute fields, ratings, body/face IDs, or import compatibility. For complete A1 builds, existing approved permanent player records and the protected original build remain authoritative; never invent missing values or let a technical draft override them.
