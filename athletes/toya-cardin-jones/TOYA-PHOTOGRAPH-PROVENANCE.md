@@ -151,7 +151,7 @@ The earlier GitHub move consolidated 25 archived image files in the canonical To
 
 ---
 
-### User-supplied young-adult / possible college-era photograph: `12959.jpg` — November 3, 2026
+### User-supplied Toya Jones and Sirr Parker college-teammate photo (date unknown): `12959.jpg` — November 3, 2026
 
 - **Original uploaded filename:** \`12959.jpg\` (153,157 bytes); preserve its unaltered original.
 - **Permanent photo storage:** existing A1 Google Drive master person's folder, \`A1 All In 1 - Comprehensive History of American Football / A1 Historical Player Encyclopedia / Toya Cardin Jones / 12959.jpg\`. Google Drive file ID \`1t1XY3_2Lbj2iO1Ri2ii0vTDi83OY1E6V\`. This identifies the one file already saved; do not create a duplicate GitHub copy merely as a checkpoint.
@@ -159,6 +159,6 @@ The earlier GitHub move consolidated 25 archived image files in the canonical To
 - **User-provided identification, accepted as working record:** individual on the **left** in horizontal striped shirt and dark cap is **Toya Cardin Jones**; individual on the **right** in gray shirt and dark cap is **Sirr Parker**.
 - **Observed composition:** two young men next to one another, both wearing dark caps; Toya smiling; dark background and foreground railing. No date, event or location established from the photo alone.
 - **Sweet T's chronology assessment (November 3, 2026):** Toya looks extremely young in this photograph; Sweet T believes it may have been taken during Toya's **college years**. This is a plausible working placement, **not a confirmed date or event**.
-- **Possible relationship:** Sweet T suspects Sirr Parker may have known Toya from Texas A&M and that they may have played football together. This is an **unconfirmed research lead**, not an established teammate claim; do not label this image a confirmed Texas A&M team photo.
+- **Verified Texas A&M relationship:** Sirr Parker and Toya Cardin Jones were **Texas A&M football teammates and college roommates**, not merely possible acquaintances. Parker described Toya as his college roommate, teammate, friend and brother in his Facebook remembrance reported by Yahoo Sports (https://sports.yahoo.com/articles/texas-m-football-star-high-033006808.html and https://sports.yahoo.com/articles/former-texas-m-football-star-171147789.html). Texas A&M's official 1998 roster lists Sirr Parker as running back No. 8 (https://12thman.com/sports/football/roster/season/1998/player/sirr-parker); Toya was on the Aggies football team from 1995 to 1998. Their connection is **established**. The photograph's **exact date/location remain unknown**, so college-era placement is an informed, user-supplied chronological estimate rather than a proven photograph date.
 - **Approved use:** authentic young-adult / possibly Texas A&M-era friendship source material for Toya's chronological vertical collage. Tentatively position it around college years while clearly retaining uncertainty about the date. Preserve both men in the original photo; cropping or isolating Toya for the artistic collage is permitted without changing the original.
 - **Integrity:** Do not generate substitute faces, add nonexistent teammates or stage a fictitious athletic event around this photo.
