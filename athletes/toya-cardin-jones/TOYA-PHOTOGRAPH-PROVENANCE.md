@@ -147,3 +147,17 @@ Create **one exceptionally beautiful, high-resolution, continuous, vertically ex
 The earlier GitHub move consolidated 25 archived image files in the canonical Toya directory, removed the two former asset directories, retained provenance here, and corrected 26 page image references. The new authentic photo-only collage has **not** been verified as completed or filed; the previously generated fictional collage was rejected. The separate Google Drive A1 master research document, already stored inside the existing Toya folder, remains part of the source history; do not create competing master files.
 
 **Controlling principle:** The photographs tell the truth. The artist makes that truth beautiful.
+
+
+---
+
+### User-supplied adult-life photograph: `12959.jpg` — November 3, 2026
+
+- **Original uploaded filename:** \`12959.jpg\` (153,157 bytes); preserve its unaltered original.
+- **Permanent photo storage:** existing A1 Google Drive master person's folder, \`A1 All In 1 - Comprehensive History of American Football / A1 Historical Player Encyclopedia / Toya Cardin Jones / 12959.jpg\`. Google Drive file ID \`1t1XY3_2Lbj2iO1Ri2ii0vTDi83OY1E6V\`. This identifies the one file already saved; do not create a duplicate GitHub copy merely as a checkpoint.
+- **Source supplied by Sweet T:** \`https://www.facebook.com/share/1DrQLYMN14/\` (source link supplied alongside uploaded image; original posting context, photographer and date not independently determined).
+- **User-provided identification, accepted as working record:** individual on the **left** in horizontal striped shirt and dark cap is **Toya Cardin Jones**; individual on the **right** in gray shirt and dark cap is **Sirr Parker**.
+- **Observed composition:** two adults next to one another, both wearing dark caps; Toya smiling; dark background and foreground railing. No date, event or location established from the photo alone.
+- **Possible relationship:** Sweet T suspects Sirr Parker may have known Toya from Texas A&M and that they may have played football together. This is an **unconfirmed research lead**, not an established teammate claim; do not label this image a confirmed Texas A&M team photo.
+- **Approved use:** authentic adult-life/friendship source material for Toya's chronological vertical collage. Preserve both men in the original photo; cropping or isolating Toya for the artistic collage is permitted without changing the original.
+- **Integrity:** Do not generate substitute faces, add nonexistent teammates or stage a fictitious athletic event around this photo.
