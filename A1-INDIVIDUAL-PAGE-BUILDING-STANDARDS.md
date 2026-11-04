@@ -31,3 +31,21 @@ The exact user-supplied screenshot **12469.png** (November 3, 2026) is the *appr
 - For any future encyclopedia project (for instance track-and-field), the existing A1 historical material can be reused as the source rather than building a competing master biography.
 
 **Sweet T's controlling distinction:** The reference image shows the *right layout*, but the *wrong images* and insufficient material. Keep the style; rebuild content from the person's actual history and approved images, without fabricating scenes.
+
+
+## Design correction — November 3, 2026: preserve the original visual architecture
+
+Sweet T compared four screenshots of a later Toya A1 page with the *original* approved portrait-led orange/blue sports infographic (the saved 12469.png reference). The four later screenshots **failed to follow the original design**, even though they reused its colors.
+
+**Do not repeat this failure on Toya or any A1 individual page:**
+- Reject page structures that repeatedly show **two equal rectangular photos, a giant dark paragraph, and four/six enormous matching cream boxes**, especially on every subsequent chapter. That is a rigid informational grid, not the illustrated biography Sweet T approved.
+- The reference is a **bold, continuous, layered sports-biography composition**: large varied-scale authentic portraits, cropped/cutout overlapping figures where source images permit, layered historical imagery, integrated captions and contextual statistics, and compact year-based records woven around photographs. The designs of adjacent sections should vary according to available material.
+- Use dark/navy/orange creatively as photographic background, contrast and section identity rather than a flat empty black field or repetitive dark text blocks. Match the reference's energy, density, typography hierarchy and cohesive horizontal bands.
+- Compact statistical records into meaningful chronological groups; reserve large visual weight for important lifetime moments, image portraits, and major distinctions. Many rows of isolated boxes waste space and break the story.
+- Do not use visitor-facing biography prose to discuss archive-process topics such as “no photographs were invented,” “approved A1 source,” “archive practice,” or “documentation rule.” Those are internal integrity requirements, not facts about the person's life.
+- Artistic freedom applies to **composition, cropping, collage, scale, light, typography, visual arrangement, real-image layering and period-consistent photo reuse**. It does not permit fictional people, historical scenes, teams or false stats.
+- The user's authentic photographs are raw visual material: they can recur at suitable places within the correct life era, and can be cropped in different ways for thumbnails, portrait anchors and backgrounds. The visual layout should not be dictated by the number of photo files.
+- A life-spanning opening montage can cross eras. All photos **inside a specific dated life-stage section must belong to that period**.
+- The original image is a **visual model**, not an accurate historical source and not a finished-length biography. Expand it to the full timeline (potentially twenty or more scrolling screens) without abandoning its cinematic integrated layout.
+
+**Acceptance test:** Seen beside the 12469.png reference, the new page should clearly have the *same graphic design language and layered photographic rhythm*, not merely the same orange/cream/navy palette. If every chapter looks like a repeated database card template, it fails and must be redesigned before presentation.
