@@ -167,3 +167,10 @@ The earlier GitHub move consolidated 25 archived image files in the canonical To
 ### Photo 12962.jpg
 
 User's working filing classification: Toya's adulthood. Toya is the older adult; the younger person's name is not known. A Refugio connection is indicated by the younger person's shirt. Original photograph is saved directly in Toya's existing A1 Google Drive folder as 12962.jpg. It is suitable for the adulthood portion of the photographic collage. Do not invent an occasion or identifying details.
+
+
+### New Toya image files 13005–13010 (November 3, 2026)
+
+Six original user-supplied files saved directly to Toya's existing permanent Google Drive A1 folder: 13005.jpg (young-adult photo at an athletic venue), 13006.jpg (two youth/family photos in one supplied file), 13007.jpg (color Refugio boys-and-girls track team), 13008.jpg (two track-podium photos in one file), 13009.jpg (sepia male Refugio track group), and 13010.jpg (sepia 1992 State Medalists track photo). Keep all source images intact. The user has not confirmed the identities of all pictured people or exact dates of the undated photos. Use them in suitable youth, high-school and other relevant life-period sections. Cropping and color or monochrome variations are allowed without changing the originals. The website should tell Toya's documented life story; photographs illustrate rather than dominate it.
+
+Count of unique source-image files across the existing A1 GitHub and Toya's permanent Drive folder: 26 in GitHub (including the dark-cap photo), plus separately supplied 12959.jpg and 12962.jpg, plus the six new files above = 34. The repeated dark-cap photo in Drive is not double-counted. Some files are memorabilia or graphics, and some contain two photographs; this is a source-file count, not a verified count of separate portraits. Generated concept art and page screenshots are excluded.
