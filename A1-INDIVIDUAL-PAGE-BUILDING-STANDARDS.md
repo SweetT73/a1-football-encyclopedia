@@ -49,3 +49,13 @@ Sweet T compared four screenshots of a later Toya A1 page with the *original* ap
 - The original image is a **visual model**, not an accurate historical source and not a finished-length biography. Expand it to the full timeline (potentially twenty or more scrolling screens) without abandoning its cinematic integrated layout.
 
 **Acceptance test:** Seen beside the 12469.png reference, the new page should clearly have the *same graphic design language and layered photographic rhythm*, not merely the same orange/cream/navy palette. If every chapter looks like a repeated database card template, it fails and must be redesigned before presentation.
+
+
+
+## Narrative and imagery hierarchy — November 3, 2026
+
+The A1 individual pages are **educational, comprehensive life-history articles**, not memorial photo galleries. The narrative, documentation, statistics, historical context, and entire life take precedence; images **support and animate the story rather than becoming the story**. The visual model still controls styling: dynamic photographic cutouts, layered hero compositions, tightly integrated compact record panels, and varied scrolling page sections—not long chains of mostly photographs or giant repetitive stats-only cards.
+
+Use **only actual user-supplied and approved source images of the relevant person** for depictions of that person's life. Do not use invented sports action, substitute faces, made-up teams, or AI-created historical subjects. Appropriate crop, tonal restoration, colorization of original monochrome material, or monochrome versions of an original color photo are allowed. Multiple crops/versions can be used in the webpage without archiving duplicate source files. Use available historical team groups as atmosphere without inventing individual names or dates. Within a period-specific section, use photographs from that life period; full-life introductory montages may span periods.
+
+Use judgment about age and broad era when images are old or ambiguous, relying on Sweet T's working placement and avoiding invented exact dates or unverified identifications. The finished result is a **real, freely scrollable webpage** in the approved infographic style, not a generated single-image approximation pretending to be a webpage.
