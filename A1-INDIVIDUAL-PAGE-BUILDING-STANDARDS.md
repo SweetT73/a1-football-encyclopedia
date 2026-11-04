@@ -64,3 +64,13 @@ Use judgment about age and broad era when images are old or ambiguous, relying o
 ## Educational biography, imagery as supporting material
 
 A1 pages teach the subject's entire life and achievements. They are not mourning-focused memorial galleries. The written historical story, verified facts and achievements are primary. Actual photographs keep the account lively but are supporting illustrations, not the centerpiece of every section. Reuse, crop, colorize or convert genuine pictures to monochrome as needed while preserving the originals. An undated image may be used within the broad appropriate life period; never fabricate identities or exact dates. The approved visual model remains a continuous, dramatic, scrolling sports-encyclopedia page, not a static poster or repeated photo-heavy blocks.
+
+
+
+### November 3, 2026 — educational emphasis: photographs support the life story
+
+- A1 entries are **educational encyclopedic biographies**, not predominantly memorial-photo galleries. Life history, verified competition results, career details, context, community work and impact lead the narrative. Images are supporting primary visual material that make the history lively, visually appealing and grounded.
+- Keep the approved energetic, integrated poster-like style. Do not let photographs replace the historical text, and do not retreat into repetitive large plain boxes; distribute compact, informative text and photographs together.
+- Reuse, crop, colorize or make a grayscale version of **existing authentic photographs** when their identity/era is suitable. Do not fabricate people, settings, athletic appearances or uniforms for missing images.
+- If a photo includes unknown people, leave them unnamed. Group scans can be split into individual image crops when useful; retain the untouched originals.
+- Where exact capture year is unknown, use a sensible, user-supplied life-period grouping without labeling an unsupported date as fact. Do not overburden the published narrative with archive-management disclaimers.
