@@ -18,7 +18,7 @@ Sweet T supplied **one image only** for present use: user-uploaded memorial phot
 - Nicknamed “Wondrous Warren.”
 - Helped Brackenridge win the Texas state championship in 1962, according to the Associated Press.
 - The Texas High School Football Hall of Fame credits him with **591 career high-school points**.
-- In a celebrated 55–48 playoff defeat, he reportedly ran for **215 yards** and scored **38 points**.
+- On **November 29, 1963**, in the UIL Class 4A bi-district playoff at Alamo Stadium, Brackenridge lost to San Antonio Lee **55–48**. The **UIL** credits McVea with **215 rushing yards and six rushing touchdowns** (36 points from touchdowns; the Texas High School Football Hall of Fame reports 38 total points).\n- **1963 senior season:** San Antonio Sports Hall of Fame records **1,332 rushing yards on 127 carries** and **315 points**.\n- **1962 championship season:** San Antonio Express-News retrospective credits McVea with **24 touchdowns despite missing three games** through injury, including **10 postseason TDs**.
 - The Hall of Fame records 9.5-second 100-yard speed and describes him as one of Texas's greatest high-school backs of the 1960s.
 - Also competed in track and field as a sprinter.
 - **Texas High School Football Hall of Fame — Class of 1983.**
@@ -64,7 +64,7 @@ His football legacy includes pioneering the racial integration of major-college 
 ## Source register
 1. Kansas City Chiefs, team historian Bob Moore, *Warren McVea: A Remembrance* (October 23, 2025): https://www.chiefs.com/news/warren-mcvea-a-remembrance
 2. University of Houston Athletics Hall of Honor — Warren McVea (2004): https://uhcougars.com/honors/university-of-houston-athletics-hall-of-honor/warren-mcvea/59
-3. Texas High School Football Hall of Fame — Warren McVea (1983): https://www.texasfootball.com/hof-warren-mcvea
+3. Texas High School Football Hall of Fame — Warren McVea (1983): https://www.texasfootball.com/hof-warren-mcvea\n7. UIL 100, memorable football games — November 29, 1963 Lee–Brackenridge playoff: https://www.uiltexas.org/100/memorable-games\n8. San Antonio Sports Hall of Fame — Warren McVea (2003): https://sanantoniosports.org/hof-members/warren-mcvea/\n9. San Antonio Express-News retrospective on Brackenridge 1962: https://www.mysanantonio.com/sports/high_school/high_school_football/article/Brackenridge-1962-The-key-players-4141300.php
 4. Pro Football Archives — Warren McVea, career ledger and transactions: https://www.profootballarchives.com/players/m/mcve00200.html
 5. Pro-Football-Reference — Warren McVea: https://www.pro-football-reference.com/players/M/McVeWa00.htm
 6. Associated Press obituary published by KSAT, October 19–20, 2025: https://www.ksat.com/sports/2025/10/20/warren-mcvea-first-black-player-to-get-a-football-scholarship-at-a-major-texas-school-dies-at-79/
