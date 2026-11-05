@@ -153,3 +153,19 @@ An original contemporary *Big Spring Herald* publication dated **Thursday, Decem
 - **Photographic source:** User-provided unmodified screenshot `13055.png`, preserved in Toya's existing A1 Google Drive person folder. The screenshot includes Facebook in-app browser chrome, a photo-viewer overlay and the caption; it is **not a clean original photograph**. Original image credit remains **photo from YouTube video, as reproduced by the Beeville Bee-Picayune**. Do not describe this screenshot as a photographer-supplied original.
 - **Audio/article status:** The article includes or was presented with a read-aloud audio player according to Sweet T, possibly including advertisements; no separate audio file or machine-readable transcript was supplied in this turn. The newspaper article remains inaccessible to automated retrieval. Do not invent or attribute direct spoken words to Slocum or other attendees until an actual transcript or accessible recording is available.
 - **Editorial use:** Add a concise factual account of the service and a properly credited photo near the end of Toya's complete life-history A1 page, not an oversized memorial-photo display. Preserve the overall biographical/encyclopedic focus and approved visual design. Original screenshot should remain intact; any crop or enhancement needs a separate derivative while retaining source/caption credit.
+
+
+
+### Additional first-person tributes and procession source — November 4, 2026
+
+**R.C. Slocum — separately dated written tribute, October 23, 2026.** A publicly published tribute signed **R.C. Slocum**, dated **October 23, 2026** on Toya's Keeper memorial page, reads verbatim:
+
+> “What a great guy. This is so sad. He was a special athlete and person. God rest his soul.”
+
+**Source:** [Toya Jones, Keeper Memorials — tributes](https://media-dev.mykeeper.com/en/ToyaJones). The same statement is quoted in a [Houston Chronicle-derived news account](https://sprysports.com/news/toya-jones-a-former-texas-am-football-player-and-texas-high-school-track-legend-dead-at-49-2026-10-22). This is **not** a verified transcript of Slocum's later October 31 comments at the service. Keep the two events separate. His attendance and speaking on October 31 is established by the user-supplied *Beeville Bee-Picayune* photo caption in `13055.png`; the precise spoken remarks at that service remain untranscribed.
+
+**Facebook footage — possible funeral procession (user-supplied source link):** https://www.facebook.com/share/v/1BuqXaiyQ3/
+
+- **User description, November 4, 2026:** Facebook video has text written across the screen; footage appears possibly to show Toya Jones's funeral procession and **may include a horse-drawn hearse transporting his body**.
+- **Evidence status:** Facebook requires a login and the specific share video could not be opened or inspected by the available retrieval service. Therefore neither the overlay wording, route, date, horses, hearse, nor actual conveyance of Toya's remains has yet been independently observed here. Record as a **user-supplied video lead and provisional visual observation**, not a definitive historical fact.
+- **Next editorial use:** When source footage or frames are accessible, preserve the exact wording on the video and describe the procession factually. Do not generate an illustrative reconstruction of it, assume a horse-drawn conveyance as fact, or misrepresent another funeral event as Toya's. If validated, use the real footage (with creator credit) as a concise final-life-chapter source rather than making the whole A1 page a memorial gallery.
