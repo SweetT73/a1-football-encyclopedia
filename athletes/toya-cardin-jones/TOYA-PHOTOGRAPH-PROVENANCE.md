@@ -194,3 +194,12 @@ Six new original uploads supplied directly by Sweet T were preserved under their
 - Sweet T's governing editorial objective: **A1 is an educational whole-life encyclopedia, not a memorial gallery.** Authentic images make the biography lively, provide atmosphere and illustrate the researched history; they **support the story rather than becoming the story**. The timeline, biographical information, athletic records, professional work, family/community contributions, and documented legacy carry the page. Use the approved, tightly integrated sports-poster layout rather than either a giant tearful remembrance display or repetitive picture-and-box blocks.
 
 **Inventory checkpoint avoided:** This entry is a permanent update of the pre-existing Toya research/provenance file, not a new checkpoint or standalone temporary artifact.
+
+
+
+### 13055.png — Slocum at October 31, 2026 remembrance
+
+- **Permanent file:** `13055.png` in Toya's existing A1 Google Drive person folder. Saved from Sweet T's original uploaded screenshot; no added subfolder, extracted face, or derived working image was created.
+- **Visible article credit:** “Former Texas A&M football coach R.C. Slocum speaks at Toya Jones’ memorial service on Oct. 31. (Photo from YouTube video)” — screenshot of *Beeville Bee-Picayune* article “Family, friends celebrate Toya Jones' lasting legacy”, SouthTexasNews.com. [Article](https://www.southtexasnews.com/beeville_bee_picayune/family-friends-celebrate-toya-jones-lasting-legacy/article_44fc73af-e1b9-4afe-b276-dc23335e186e.html).
+- **Source type:** Newspaper website photo preview captured inside Facebook's in-app browser; UI overlays, image dimming and caption are visible. It is a **photo of an event at which Toya is being remembered**, not an image of Toya.
+- **Correct intended use:** Supporting image for the posthumous-legacy narrative and documented connection to former Aggies coach Slocum; source-caption credit should stay attached. Retain the full screenshot as evidence. No claim that the audio was processed or that its spoken content was verified.
