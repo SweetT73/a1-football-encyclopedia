@@ -1,15 +1,23 @@
 # Rodney Mattingly — A1 permanent individual research record
 
-## Name and provenance
+## Identity and projects
+- **Person:** Rodney Mattingly, Woodsboro, Refugio County, Texas.
+- **School:** Woodsboro High School, graduating class of **1992** (Sweet T report).
+- **Projects:** Woodsboro and Refugio County combined male multi-sport greatest-athlete candidate; A1 historical football and future Refugio County/Woodsboro create-a-player draft class.
+- The name is **Rodney Mattingly** (voice transcription may render “Manningly”).
 
-**Name:** Rodney Mattingly.
+## High-school recollections supplied by Sweet T
+- Football, basketball, track and field; pole vault.
+- Pole-vault school-record history: user reports surpassing Frank “Squeak” Linney's prior Woodsboro mark around 1991–1992; precise meet/date/mark need primary-source confirmation.
+- Participated in a Woodsboro 4 × 100-meter relay, with a reported state relay alternate role; track season and meet documentation outstanding.
+- User recounts Rodney playing all **22 football positions** between seventh grade and high-school graduation, and also punting and kicking. Treat as a user-reported span of position experience, **not** 22 verified varsity starts or 22 separate season statistics. Long snapping and holding not independently established.
+- AAU pole vault, subsequent college athletics and semi-professional football reported by user; details to establish from records.
 
-This name appears among the male athlete research candidates in Sweet T's **October 21, 2026 A1 20-athlete research conversation**. It is preserved as a **candidate name only**, not as a verified school, team, position, award, record, or biographical identification. This permanent file prevents the name from being lost during conversation consolidation.
+## Research plan
+Search Woodsboro High School yearbooks, Caller-Times All-District lists (1991/1992), UIL district/regional/state track results, AAU summer pole vault, college rosters, football film and contemporary local publications. Preserve precise evidence levels and individual event results before ranking or attributing numeric Madden-style ratings.
 
-## Identification and evidence boundaries
+## Photographs
+No new photographs provided for Rodney in this user turn; none saved by this update. Preserve all original historical evidence in this one permanent person folder.
 
-- School, hometown, birth/death dates, athletic participation, statistics and honors: **not yet independently established for the intended A1 individual**.
-- The name may be shared by unrelated people. Do not import public search results until the identity matches the specific A1 candidate.
-- Authentic original photographs: **none recovered or committed for this person** in this filing.
-- No source conversation has been exhaustively verified or cleared for deletion.
-- New verified evidence and photographs belong directly in this same permanent individual folder. No temporary or checkpoint records are authorized.
+## Archive policy
+Keep one permanent master folder, `athletes/rodney-mattingly/`; do not duplicate or overwrite unrelated person files.
