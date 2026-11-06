@@ -71,3 +71,10 @@ These are original share links copied from Greg White's Hudl clips. Retain the e
 5. https://www.hudl.com/v/2K8dVi
 6. https://www.hudl.com/v/2Rfy3W
 7. https://www.hudl.com/v/2JjNtX
+
+## Tomball Bobcats league continuity — verified November 2026
+- The Tomball Bobcats are **not defunct**. An independently reported January 19, 2015 newspaper article confirms the semi-professional team was founded by Chris Fields in **September 2012** and played in the **Texas United Football Association (TUFA)** in 2015. Its report also mentions the **Woodlands Warriors** as a separate TUFA team. Source: https://www.chron.com/neighborhood/tomball/sports/article/Semi-pro-football-team-provides-opportunities-on-9608416.php
+- **Current confirmed affiliation:** Republic Football League (**RFL**), competing in its inaugural 2026 season. The Bobcats reached the **June 27, 2026 championship**, losing to the 713 Cardinals **30–0**, and are listed among the RFL teams for 2027. Official league sources: https://reptheleague.com/ ; https://reptheleague.com/schedule ; https://reptheleague.com/about
+- This supports a change in **league affiliation** between 2015 and 2026. It does **not establish** the exact season in which the Bobcats left TUFA, all intervening league memberships, or a merger/rebranding of TUFA into RFL. Do not claim the team relocated or folded.
+- **Greg White's playing history:** Sweet T identifies Greg as having played with both Tomball Bobcats and Woodlands Warriors. Neither the team's **2026** RFL championship run nor its present roster establishes that Greg personally played during 2026. Keep Greg's individual seasons distinct from the later team's chronology.
+- Clip already preserved (do not duplicate): https://www.hudl.com/v/2JjNtX. Link supplied by user; the Hudl video was not playable for direct examination from this environment.
