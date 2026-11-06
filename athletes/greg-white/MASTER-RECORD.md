@@ -44,3 +44,10 @@ The upload assets are visible to this conversation but **have not been committed
 
 ## File rule
 Single permanent person folder at `athletes/greg-white/`. No new primary archive or temporary research folder. Distinguish dated source statements, user identifications, and independently verified facts.
+
+## November 2026 follow-up — spring 1991 shot put and semi-pro teams
+- **1991 Woodsboro track, junior year:** Sweet T reports Greg White qualified out of district for the regional championship in **shot put** in spring 1991. Research has not yet established qualifying mark, district placing, regional meet date, regional finish, or whether he advanced to state. Treat this as user-supplied history pending historical regional results.
+- **Additional adult team:** Sweet T reports Greg played for **The Woodlands Warriors** as well as the **Tomball Bobcats**. Retain both team identities separately, without inferring transfer dates, franchises' defunct status or relocations absent documentation.
+- **TUFA expansion:** **Texas United Football Association**; league says established in **2009**. Its historical rules also use “Texas United Football League,” while a separate current **TUFL** website lists championship results back to **2003**. The available sources do not by themselves establish a formal TUFA-to-TUFL rebrand or a continuous single league. Preserve the names and investigate organization/ownership chronology before making a definitive name-change claim.
+- **League evidence:** https://andres713.wixsite.com/tufafootball/rules-and-regulations ; https://andres713.wixsite.com/tufafootball/about ; https://www.tuflfootball.com/ ; https://www.tuflfootball.com/champions/ ; https://www.linkedin.com/in/tufa-league-27352a75
+- **Specific historical track research:** Search April–May 1991 Corpus Christi Caller-Times, Victoria Advocate, Beeville, Refugio County and Woodsboro newspaper district and regional Class 2A shot-put reports. No regional result verified from currently located sources. Do not incorrectly label a regional qualification as a state appearance.
