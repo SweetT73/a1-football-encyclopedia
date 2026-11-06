@@ -59,3 +59,15 @@ Single permanent person folder at `athletes/greg-white/`. No new primary archive
 - **Purpose:** Link and, if Hudl officially supports third-party embedding for this clip, embed it in Greg's eventual A1 HTML player page. Preserve each additional clip URL directly in this permanent player folder as supplied; never fabricate video identifiers.
 - **Verification boundary:** The supplied link was recorded, but the video could not be opened or played in this environment, so its specific play sequence, team uniform, opponent, jersey visibility, and duration remain unverified. Do not claim the footage was watched.
 - **Technical note:** A normal Hudl page URL is not automatically a valid iframe/embed URL. Only use a verified official Hudl embed/share code after testing; otherwise provide a working clickable clip link. No separate video copy or temporary folder.
+
+## Additional Hudl clips supplied by Sweet T — November 2026
+
+These are original share links copied from Greg White's Hudl clips. Retain the exact distinct clip IDs for his future A1 player webpage. They are user-supplied links, not videos independently played or verified in this session. Do not invent clip descriptions or label them with teams/opponents unless demonstrated by the footage. Embed only with a verified Hudl-compatible embed mechanism; otherwise link directly.
+
+1. https://www.hudl.com/v/2NtYKJ
+2. https://www.hudl.com/v/2KABrF
+3. https://www.hudl.com/v/2Ketg4
+4. https://www.hudl.com/v/2Hamgq
+5. https://www.hudl.com/v/2K8dVi
+6. https://www.hudl.com/v/2Rfy3W
+7. https://www.hudl.com/v/2JjNtX
