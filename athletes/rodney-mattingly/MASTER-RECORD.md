@@ -21,3 +21,10 @@ No new photographs provided for Rodney in this user turn; none saved by this upd
 
 ## Archive policy
 Keep one permanent master folder, `athletes/rodney-mattingly/`; do not duplicate or overwrite unrelated person files.
+
+## Verified UIL state pole vault — major historical findings
+- **1991, Class 2A boys pole vault:** **7th place, 13 feet 0 inches**, representing **Woodsboro High School**. Official University Interscholastic League results: https://www.uiltexas.org/historical-archives/athletics/archives/track_field/90_91/results/15558.html
+- **1992, Class 2A boys pole vault:** **4th place, 14 feet 0 inches**, representing **Woodsboro High School**. Official UIL results: https://www.uiltexas.org/historical-archives/athletics/archives/track_field/91_92/results/15558.html
+- **Therefore confirmed state finalist in consecutive years** (junior spring 1991 and senior spring 1992, based on reported 1992 graduation). These are actual championship performances, not merely regional qualifiers.
+- Separate issue: whether the 1991 or 1992 clearances represented a Woodsboro school record and when any preceding record was surpassed remains to be established from meet reports and school documentation. Do not treat a 14-foot state vault automatically as confirmation of the school's record date.
+- Also preserve 1991 regional and district pole-vault research for complete season history even though state finish is now documented.
