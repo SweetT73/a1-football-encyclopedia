@@ -51,3 +51,11 @@ Single permanent person folder at `athletes/greg-white/`. No new primary archive
 - **TUFA expansion:** **Texas United Football Association**; league says established in **2009**. Its historical rules also use “Texas United Football League,” while a separate current **TUFL** website lists championship results back to **2003**. The available sources do not by themselves establish a formal TUFA-to-TUFL rebrand or a continuous single league. Preserve the names and investigate organization/ownership chronology before making a definitive name-change claim.
 - **League evidence:** https://andres713.wixsite.com/tufafootball/rules-and-regulations ; https://andres713.wixsite.com/tufafootball/about ; https://www.tuflfootball.com/ ; https://www.tuflfootball.com/champions/ ; https://www.linkedin.com/in/tufa-league-27352a75
 - **Specific historical track research:** Search April–May 1991 Corpus Christi Caller-Times, Victoria Advocate, Beeville, Refugio County and Woodsboro newspaper district and regional Class 2A shot-put reports. No regional result verified from currently located sources. Do not incorrectly label a regional qualification as a state appearance.
+
+## Additional Hudl playing-footage link — supplied November 2026
+- **Player:** Greg “Great White” White, offensive lineman, **No. 64** (confirmed as user's identification and approved Bobcats graphics).
+- **Hudl clip:** https://www.hudl.com/video/3/7118264/5721e21164e96b63802f0ebe
+- **Hudl profile containing additional clips:** https://www.hudl.com/profile/7118264/Greg-White
+- **Purpose:** Link and, if Hudl officially supports third-party embedding for this clip, embed it in Greg's eventual A1 HTML player page. Preserve each additional clip URL directly in this permanent player folder as supplied; never fabricate video identifiers.
+- **Verification boundary:** The supplied link was recorded, but the video could not be opened or played in this environment, so its specific play sequence, team uniform, opponent, jersey visibility, and duration remain unverified. Do not claim the footage was watched.
+- **Technical note:** A normal Hudl page URL is not automatically a valid iframe/embed URL. Only use a verified official Hudl embed/share code after testing; otherwise provide a working clickable clip link. No separate video copy or temporary folder.
