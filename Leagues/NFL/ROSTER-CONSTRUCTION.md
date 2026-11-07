@@ -1,9 +1,31 @@
 # A1 — Madden NFL League-Wide Roster Building Research
 
-Permanent A1 project record. Started October 31, 2026. Research continues through November 2, 2026, approximately 11 PM Central.
+Permanent A1 project record. Started October 31, 2026. Findings updated November 7, 2026. This file preserves ongoing technical evidence; it does not imply background investigation is actively scheduled.
 
 ## Purpose
 Determine how to build ONE complete NFL-wide custom roster with historical players across 32 teams, with Sweet T's preferred 75-player-per-team target (2,400 total), retaining 70 (2,240 total) as a fallback ONLY if technical restrictions are confirmed. Do not conflate 53 active game-day/regular roster slots with editable league-wide player database capacity, free agents, or franchise preseason capacity.
+
+## November 7, 2026: Madden 27 evidence and production priority
+
+**Sweet T's instruction:** Complete and validate the already locked **70-player Chicago Bears Madden 27 Team Builder roster first**. Do not expand the game roster or displace players until the existing 70 are playable and correctly built. Keep researching extended league-wide capacity as a separate future option; this does not delay the existing 70.
+
+### Verified workflows
+- **EA's official Madden 27 league-wide custom roster:** Main Menu → Creation Center → Edit Rosters → Manage Players, where one can edit, release or trade players across the league, and save a complete custom roster file. To use: Creation Center → Load/Delete Files → Roster → Load File, and select Roster File when entering Franchise. This is a *different system* from an individual Team Builder roster. https://help.ea.com/en/articles/madden-nfl/franchise-mode-custom-rosters/
+- **EA's official Madden 27 Team Builder:** customizes branding, stadium, uniforms and an individual team's player roster, imports to *online* Franchise (not offline) as a replacement for an NFL team. EA says up to 32 team replacements, which does **not** specify 70 or 75 per team. https://help.ea.com/en/articles/madden-nfl/madden-team-builder/
+- **A1 third-party roster editor** https://madden27-tb-editor.com/ currently advertises “70 seats.” This is the existing custom team roster editor's **template**, not EA's confirmed game-wide player database limit.
+- **Community 75-player precedent (Madden 27):** Operation Sports TrueSim Franchise Roster discussion identifies “TrueSim75” based on EA's preseason 75-player team files and “TrueSim53” based on regular-season 53-man files. This is evidence that a community *league-wide roster file* may represent 75 per team, **not** proof that Team Builder can create 75 on one franchise-replacement team. https://forums.operationsports.com/forums/forum/football/madden-nfl-football/madden-nfl-football-rosters/26928584-truesim-franchise-roster-madden-27/page6
+- **EA fixed relevant franchise problems:** August 26, 2026 Madden 27 update fixed players disappearing after a game from imported roster files; EA notes starting a *new Franchise* and re-importing the custom file is required for that fix. https://www.ea.com/games/madden-nfl/madden-nfl-27/news/m27-title-update-august-26-2026 ; October 21, 2026 update fixed multiple custom-roster import / contract and depth-chart issues. https://www.ea.com/games/madden-nfl/madden-nfl-27/news/madden-nfl-27-title-update-october-21
+
+### Findings still unverified
+1. The maximum **individual Madden 27 Team Builder** roster slot count beyond the 70 represented by our editor/template, including whether a supported increase to 75 is possible.
+2. Whether any **Xbox-compatible** ordinary *league-wide roster* workflow can hold more than 75 on a particular team and preserve custom heads, historic attributes and Madden ratings as intended.
+3. RedzoneJay's original Madden 26 file lineage, creation method and current Xbox download availability. Video depicting roughly 1,500+ players across a whole league does not establish 1,500 individually “created from scratch” entries or any particular per-team limit.
+
+### Finish the 70 first (current historically recovered baseline)
+- Original protected A1 Bears 70-player v10 build: **70 unique IDs, 70 distinct roster seats**, original ratings and player identities preserved. Historical import reported “Transplanted 70 of 70”; this does **not** establish complete validated live playable appearances and ratings.
+- Outstanding: **29 user-observed visible head/complexion mismatches** (13 in first established pass; 16 in second), **41 others yet to complete final visual audit**, plus final field/overall rating validation in the real Team Builder and loaded Xbox franchise.
+- Use original v10 as unchanged baseline. For each player, verify correct A1 ratings, position, attributes, jersey, body and equipment; correct facial rendering by authentic references and actual Team Builder preview. Preserve 70/70 identities and import fields. Then test a new online Franchise load and gameplay, respecting EA's documented fixes. Do not invent success or perform unapproved game changes.
+- Player biographies and historical photographs can continue to populate the permanent A1 player folder by position independently; this does not consume in-game roster capacity.
 
 ## RedzoneJay evidence
 - Video: https://www.youtube.com/watch?v=67Im1dhpcl4
