@@ -107,3 +107,10 @@ Sweet T observed 29 wrong complexion/head renderings in Team Builder. They all r
 
 ## Source documentation
 The original protected v10 roster and associated head screenshots and catalog remain in the permanent A1 Library. Player data is filed directly under that player's own Bears folder, not held for a later filing pass. The official Bears Top 100 and original historical team roster sources are research references, **not** the formula for A1 player ratings.
+
+## November 7, 2026: original 70-player file validation
+
+The original protected `A1_Bears_Locked70_FINAL_IMPORT_v10.build.json` was read programmatically without any modification. **Static file checks passed:** 70 player slots; 70 unique target player IDs; no missing critical fields for overall, speed, acceleration, awareness, college, age or gameplay DOB; all 70 players have a stored `genericHeadName` and equipment array; all 70 overall ratings in the source file are nonzero (range 78–99).
+
+**Critical limitation:** This validates only the saved JSON structure. It does **not** establish that EA Team Builder accepted each field. Earlier user-observed 0 overall ratings and 29 wrong skin/head renderings in live Team Builder remain unresolved until verified in actual EA output. Reconcile file → importer/bridge → pulled Team Builder roster → gameplay, beginning with players whose EA-visible fields previously failed. Preserve the original source unchanged. Do not expand the 70 game seats before achieving a verified working 70.
+
