@@ -32,6 +32,14 @@ Four user-provided original photographs are preserved as individual image files 
 
 **Johnny Lujack distinction:** These pictures concern Sid Luckman. A different 1948 Bears team photograph genuinely features Luckman with Johnny Lujack and Bobby Layne; NFL image archive: https://www.nfl.com/photos/sid-luckman-through-the-years-0ap1000000124308 .
 
+## College roots, NFL achievements and newly filed 11579 photograph
+
+The Columbia University standout played all **12 NFL seasons (1939–1950) with the Chicago Bears**, predominantly as a quarterback; his historical playing experience also encompassed halfback and defensive back. George Halas developed him into the leading early practitioner of the professional **T-formation**. He helped lead Chicago to the **1940, 1941, 1943 and 1946** NFL championships, earned the **1943 NFL MVP** distinction, and was inducted into the **Pro Football Hall of Fame in 1965**.
+
+**New original from Sweet T:** `11579.jpg`, a black-and-white action image supplied as Sid Luckman carrying a football. Its full-resolution original is now permanently stored at A1 Library → `Leagues/NFL/Chicago Bears/Quarterbacks/Sid_Luckman/Photographs/Sid_Luckman_Columbia_Era_Football_Action_11579.jpg`. The exact image date and photographer are **not established**; the college-era description is provisional until attributable photo provenance is located. The details and SHA-256 are appended to the **existing** `Sid_Luckman_Archival_Photo_Captions.md` record; no extra Library caption file was created.
+
+**User-provided authoritative research links:** [Columbia Athletics: Columbia in the NFL](https://gocolumbialions.com/sports/2025/9/12/columbia-in-the-nfl) and [Pro Football Hall of Fame: Sid Luckman](https://www.profootballhof.com/players/sid-luckman/). The context was contributed by Sweet T. NFL historical career facts and Madden-specific A1 ratings remain separate.
+
 **Research policy:** Expand accurate football biography, season statistics, photos with source/provenance, awards and career history directly within this individual player folder as verified. Distinguish historical true positions from roster-specific gameplay position. If the player has an existing A1 master identity under `athletes/`, reconcile before duplication; this folder holds Chicago-specific playable and historical facts.
 
 [Return to the Chicago Bears roster](../../ROSTER.md) · [Chicago Bears public page](../../index.html)
