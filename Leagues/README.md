@@ -8,4 +8,6 @@ A1 → Leagues → League → Franchise → Historical position → Individual p
 - [Arena Football League](Arena-Football-League/README.md)
 - [American Football League (1960–1969)](American-Football-League/README.md)
 
+- [College Football](College-Football/README.md) — schools, historical players and coaches.
+
 These two AFLs are different competitions, kept separate.
