@@ -12,3 +12,4 @@
 - [John William Heisman](Historical-Coaches-and-Pioneers/John-Heisman/PROFILE.md): Brown and Penn playing careers and later coaching contributions.
 
 Each person has a single permanent identity; individual original photos live in the proper personal `Photographs` album, without duplicating the same image under every team. Cross-reference other institutions within the same profile.
+- [Penn State Nittany Lions coaching history](Big-Ten/Penn-State-Nittany-Lions/README.md) — Joe Paterno: assistant 1950–1965, head coach 1966–2011.

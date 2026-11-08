@@ -4,6 +4,12 @@
 
 **Historical player:** Joseph Vincent Paterno (December 21, 1926–January 22, 2012), later head football coach at Pennsylvania State University. At Brown University, he played **quarterback and cornerback**. Brown's combined record in 1948 and 1949 was **15–3**, according to the image caption published by *Sports Illustrated*.
 
+## Penn State Nittany Lions coaching career
+
+After playing quarterback and cornerback for Brown, Paterno joined the football staff at **Pennsylvania State University (Penn State)** in **1950**. He served as an assistant coach from **1950 through 1965** and became the Nittany Lions' head coach in **1966**, holding that position through **2011** — **46 seasons** as head coach. His Penn State teams won national championships following the **1982** and **1986** seasons. Penn State and the **University of Pennsylvania (Penn Quakers)** are separate institutions.
+
+**Archive rule:** One Joe Paterno identity, with his original playing photograph kept under Brown University, and a cross-reference from [Penn State Nittany Lions coaching history](../../../../Big-Ten/Penn-State-Nittany-Lions/README.md). No duplicate player file or photograph is required. This coaching-history addition was prompted by Sweet T.
+
 ## Original photograph — Sweet T contribution
 
 - **Permanent photo:** `Photographs/Joe_Paterno_Brown_University_QB_CB_Late1940s_11578.jpg`
