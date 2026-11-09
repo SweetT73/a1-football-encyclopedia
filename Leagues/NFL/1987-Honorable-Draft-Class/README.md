@@ -23,7 +23,7 @@ This one class covers **all 28 teams that played in 1987**, using their contempo
 ## Research coverage
 - 28 1987 teams have permanent team chapters.
 - 1,000 named roster entries are transcribed into 28 chapters at initial launch; **this is not an exhaustive list of 1987 nonunion players**, since the dated UPI source, later changes and game rosters require further verification.
-- 24 individual candidate biographies were added directly to canonical GitHub athlete folders as source-grounded starting records; Mike Varajon's previously existing canonical record was retained rather than duplicated.
+- 39 individual candidate biographies were added directly to canonical GitHub athlete folders as source-grounded starting records; Mike Varajon's previously existing canonical record was retained rather than duplicated.
 - Existing user-researched biographies of Tony Robinson, Sean Payton, Brian Glasgow, Mark Rodenhauser, and Marty Horn from the permanent A1 Library remain authoritative where applicable. Listing them here does not authorize duplicate primary records.
 
 ## Primary historical sources
@@ -48,3 +48,7 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md). Use this repository's GitHub Issues to 
 The same permanent 28 team chapters now contain **1,000 roster-name entries in aggregate**, after adding 549 provisional names from 1987 team-season roster compilations to the fifteen previously unpopulated team chapters. This is an entry count, not a deduplicated count of unique individuals, and is **not an exhaustive confirmed NFL strike-participant roster**. Later team-compilation numbers and listed names may disagree with dated UPI reports. Keep original source attribution; verify the roster date, actual signing, dressing, game appearances, injury/reserve status and veteran crossing separately. No existing player's permanent biography or protected roster was overwritten by these additions.
 
 Public contribution issue: https://github.com/SweetT73/a1-football-encyclopedia/issues/1
+
+## Individual biography coverage
+
+All 28 team chapters now have at least one linked canonical individual record (subject to additional life-history verification): **39 new individual A1 athlete files plus the pre-existing Mike Varajon profile**. A roster entry is not an independent biographical proof of game appearances. Profile files are permanent and intentionally evidence-labeled, with no temporary duplicates. Individual profiles already researched in the original A1 Library remain authoritative; website entries must be reconciled with them instead of creating competing identities.
