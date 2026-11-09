@@ -65,6 +65,15 @@ Historical game-log corroboration: https://www.statmuse.com/nfl/player/mike-vara
 
 **Filing state:** One existing GitHub A1 player record is retained and updated in place. The separate permanent Library player folder exists but its profile-file upload failed in the prior operation; no Library file or photograph is claimed saved. No extra biography, checkpoint, temporary folder, Madden roster entry, or image copy has been made.
 
+## User-supplied original photograph — permanently archived, November 9, 2026
+
+- **Source:** Photograph supplied directly by Sweet T in this conversation, identified by the user as Mike Varajon.
+- **Depiction:** Black-and-white full-length sideline photograph: a player in a San Francisco 49ers uniform numbered **48**, holding a football helmet in his left arm; other people and stadium-area background visible.
+- **Permanent unedited original:** `/A1 All In 1 - Comprehensive History of American Football/A1 Historical Player Encyclopedia/Mike_Varajon/Mike_Varajon_San_Francisco_49ers_No48_Original_User_Supplied.jpg`
+- **Filing verification:** ChatGPT Library upload returned succeeded; original image bytes saved under the player's existing A1 Library folder. Preserve this original unchanged.
+- **Identification status:** User-identified as Varajon, supported by official 49ers No. 48 roster information; the exact game, photographer, and capture date are unverified.
+- **Future edit requested:** Isolate only Varajon, removing all other people and background. The isolated derivative has not been generated or saved. Keep the original intact when editing is authorized.
+
 ## Sources
 
 **Authoritative NFL and team records**
