@@ -10,3 +10,7 @@ A1 (All In One): A Comprehensive History of American Football
 ## College Football
 
 - [Brown University, Joe Paterno and John Heisman](Leagues/College-Football/README.md)
+
+## 1987 NFL strike history — The Honor Bearers
+
+- [The Honorable Draft Class of 1987](Leagues/NFL/1987-Honorable-Draft-Class/index.html)
