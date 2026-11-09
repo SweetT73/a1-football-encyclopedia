@@ -2,7 +2,7 @@
 
 This permanent section is intended to make overlooked football lives discoverable. Former participants, families, teammates, historians, coaches, reporters and fans are invited to help improve it.
 
-**Open a suggestion:** https://github.com/SweetT73/a1-football-encyclopedia/issues/new
+**Open a suggestion:** https://github.com/SweetT73/a1-football-encyclopedia/issues/1
 
 Include:
 1. **Player's full name and 1987 team** (use its historical 1987 name); uniform number and position if known.
