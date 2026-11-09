@@ -41,6 +41,30 @@ Do not use third-party sites to overrule NFL.com for the canonical NFL statistic
 
 Sweet T previously discussed a 1987 San Francisco 49ers sideline group photograph said to contain **Mike Varajon No. 48, Michael Durrette No. 64, and Tony Cherry No. 23**, with a Getty Images **#57148878**, photographer **Michael Zagaris**, Giants Stadium **October 5, 1987** attribution lead. The original image bytes and its actual permanent Library file location have **not** been independently found or verified during this record update. Preserve the group-image identity research without asserting that any photograph was uploaded, cropped, licensed, or filed by this commit. Do not duplicate the group original.
 
+## October–November 2026 supplemental link verification — Sweet T's screenshots
+
+Sweet T supplied two November 9, 2026 search-result screenshots showing **all five research destinations**: NFL.com, StatsCrew, The Football Database, Wikipedia, and Pro Football Reference. The screenshots are **source-finding evidence only**; they are not player photographs and must not be misidentified as a personal portrait. Direct links now retained below.
+
+- [NFL.com — Mike Varajon career statistics](https://www.nfl.com/players/mike-varajon/stats/) — NFL figures govern this A1 record.
+- [San Francisco 49ers — official 1987 season statistics](https://www.49ers.com/team/stats/1987/) — official confirmation of **18 rushes / 82 yards / 0 rushing touchdowns; one kickoff return / 13 yards**.
+- [StatsCrew — Mike Varajon](https://www.statscrew.com/football/stats/p-varajmik001) — user-supplied independent historical lead.
+- [The Football Database — 1987 San Francisco at New York Giants, October 5](https://www.footballdb.com/games/boxscore/san-francisco-49ers-vs-new-york-giants-1987100501) — the screenshot identifies a **25-receiving-yard** game; box score shows **16 carries/75 yards and 3 receptions/25 yards**, San Francisco won **41–21**. Treat this game-by-game source as a cross-check, not an override of official NFL totals.
+- [Pro Football Reference — Mike Varajon](https://www.pro-football-reference.com/players/V/VaraMi20.htm) — user-provided biography and seasons.
+- [Wikipedia — Mike Varajon](https://en.wikipedia.org/wiki/Mike_Varajon) — user-provided first-pass biography.
+- [NFL — 1987 San Francisco team roster](https://www.nfl.com/sitemap/html/rosters/1987/san-francisco-49ers) — official roster membership.
+- [NFL-hosted 2025 49ers historical roster/media guide](https://static.www.nfl.com/league/apps/league-site/media-guides/2025/SF.pdf) — **Varajon, Mike / FB / Toledo / 1987 / jersey 48**.
+
+**Three 1987 strike-era games documented by historical game logs** (the game-by-game counts are research cross-checks, while NFL.com/49ers totals remain authoritative):
+| Date | Opponent | Result | Rushing | Receiving / return |
+|---|---|---|---|---|
+| Oct. 5, 1987 | at New York Giants | W 41–21 | 16 carries, 75 yards | 3 catches, 25 yards |
+| Oct. 11, 1987 | at Atlanta Falcons | W 25–17 | 2 carries, 7 yards | no receiving yards |
+| Oct. 18, 1987 | vs. St. Louis Cardinals | W 34–28 | no recorded carries | one kickoff return, 13 yards |
+
+Historical game-log corroboration: https://www.statmuse.com/nfl/player/mike-varajon-21177/game-log?seasonYear=1987 and https://www.profootballarchives.com/nflboxscores1/1987nfl067.html . The 49ers official schedule is https://www.49ers.com/schedule/1987/ . Use the **1987 St. Louis Cardinals** name for this historical matchup, despite present-day schedules displaying Arizona branding.
+
+**Filing state:** One existing GitHub A1 player record is retained and updated in place. The separate permanent Library player folder exists but its profile-file upload failed in the prior operation; no Library file or photograph is claimed saved. No extra biography, checkpoint, temporary folder, Madden roster entry, or image copy has been made.
+
 ## Sources
 
 **Authoritative NFL and team records**
