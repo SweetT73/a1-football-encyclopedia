@@ -51,3 +51,10 @@ For every film where a trailer is available, attach or link an authentic trailer
 - User estimates duration around 24 seconds; precise duration remains unverified.
 - Research value: linked visual excerpt for film and fictional football character research; verify actual kicking footage before describing specific kicks, and do not misidentify #25.
 - User-provided visual source: screenshot of the YouTube video details. Preserve uploader credit and link; do not copy/rehost clip.
+
+## Supplied promotional synopsis (source attribution pending)
+The film is described as a comedy featuring Don Knotts and Tim Conway. The struggling California Atoms recruit Gus, a mule with the fictional ability to kick 100-yard field goals. The team's turnaround is threatened when criminals attempt to kidnap their star player.
+
+- Supplied verbatim by Sweet T on November 16, 2026; original wording/source owner not yet established. This is marketing description, not a verified play-by-play record.
+- Searchable themes: underdog football team; animal athlete; placekicking; 100-yard field goal (fictional); kidnapping plot; family sports comedy.
+- **Continuity note:** This 100-yard claim is an in-universe promotional claim and must not be treated as a real NFL record.
