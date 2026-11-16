@@ -164,3 +164,21 @@ Source: Sweet T's new firsthand scene description in the current conversation. T
 - CROSS-LINK: Existing permanent A1 Football Film and Television Linked Master Index (Drive document 14QMGoMtK8STw8eA_qrMhhESQkP8XM_6oHSWdaAjaE2o) already catalogs Monaghan, red #20, and the relevant Packers identification in other opening scenes. This new description is a supplementary user-observation lead requiring timestamp/frame verification; do not create a new character page or duplicate film master.
 
 Checkpoint: current user-supplied scene observation captured in this GitHub audit. Still pending original *Gus* SRT/video/frame comparison, official-name and exact spelling checks (not Monaghan's #20 quarterback identity), and all earlier outstanding audit gaps. No protected roster assets touched.
+
+
+## 13. NINTH AUDIT INCREMENT — 2026-11-16 — SOURCE RESPONSIBILITY AND MONAGHAN RECONCILIATION
+
+### Direct source: current conversation, subsequent user correction
+Sweet T states explicitly that Monaghan is the quarterback wearing #20 and that earlier screenshots showed this. The assistant previously reopened the identity despite the established user observation, and Sweet T corrected that behavior. Preserve the user-established identification as **USER OBSERVATION / PREVIOUSLY SUPPLIED SCREENSHOT CLAIM**. This audit has not independently re-read the screenshot bytes; do not mislabel this as a fresh independent visual verification. The precise spelling 'Monaghan' is supported by the previously read Drive film-index transcript notes, but a fresh frame/subtitle inspection is still pending.
+
+### Reconciliation of prior audit's internal contradiction
+Section 12 incorrectly said the first play's jersey number was 'NOT independently established' without mentioning the user's direct identification, then recognized #20 in the second play. The correct shared working identification for BOTH described plays is **Monaghan, quarterback, jersey #20**, as explicitly corrected by Sweet T. This supersedes any suggestion that the two plays necessarily show different unidentified players. His original voice-to-text 'cornerback' wording should not override his subsequent explicit correction to 'quarterback'. Retain the voice transcript as historical source, not as an active conflict about his position.
+
+### Research division of labor — user instruction
+Sweet T watches and describes film; the assistant must independently seek corroboration from existing images, subtitles, cast lists and source records, research names and scene context, and preserve findings with honest evidence labels. Do not require Sweet T to re-prove every identification, and do not turn inability to access an old screenshot into an argument against his firsthand report. If an actual contradictory source is discovered, investigate and report the concrete discrepancy rather than dismissing the user observation. This is a general A1 research workflow requirement, not a new film fact.
+
+### Crosscheck performed this increment
+Re-fetched the existing GitHub film README `film-and-culture/gus-1976/README.md` and screenshot research file `film-and-culture/gus-1976/research/visual-evidence-credits-and-unnamed-jerseys.md`. Neither returned text contains 'Monaghan', 'Monahan', '#20' or 'quarterback'. Therefore neither file currently provides a separate confirmation or contradiction of the user's identification. Prior audit records indicate the **Drive Football Film and Television Linked Master Index** includes Monaghan and #20; that document was not re-fetched in this increment. Do not create an empty character page based solely on this audit.
+
+### Checkpoint and limitations
+VERIFIED READ: current GitHub audit, Gus README and Gus visual-evidence research file. VERIFIED WRITE TARGET: this same GitHub audit. No protected player, roster, original image or Google Drive canonical master changed. NEXT: retrieve original scene evidence where accessible and reconcile against the existing Drive film index; continue outstanding Payton, Moon/James, UX, fantasy, comics and licensing research. Full conversation coverage and attachment preservation remain unconfirmed.
