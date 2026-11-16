@@ -51,3 +51,27 @@ This pass actually accessed the **Da Suga of Sweet T** account (dasugaofsweett@g
 - The earlier audit's generic statement that designated Drive access was pending is now superseded for these inspected records.
 - This audit GitHub file is a **cross-workstream ledger**, not a replacement for the canonical Drive documents.
 - REMAINING: inspect the football-film index and source-rules full text; locate Walter Payton original imagery and film references; retrieve original Moon/James screenshots and earlier messages where accessible; reconcile the other *Gus* conversation, exact scene/cast/jersey evidence and original attachments; verify any unfiled A1 subscription/fantasy details against the film plan; reconcile licensing and seasonal concepts. No claim of full transcript completeness or source deletion-readiness.
+
+
+## 7. THIRD VERIFIED AUDIT PASS — 2026-11-16 — FILM INDEX AND MADDEN SOURCE RULES
+Directly fetched two previously metadata-only permanent Google Docs in the designated Da Suga of Sweet T account.
+
+### Football Film and Television — Permanent Linked Master Index
+https://docs.google.com/document/d/14QMGoMtK8STw8eA_qrMhhESQkP8XM_6oHSWdaAjaE2o/edit
+Fetched complete readable document (27,606 characters). Already indexes actors, fictional football characters, real sports figures portrayed on screen and historical football figures, with separate identities and source rules. No duplicate was created.
+
+Gus (1976) research is ALREADY substantially filed there: California Atoms red uniform, numbered jerseys including #24 RIOS, #52, #77, #82, #4, #61, #68, #20, and tentative #50/#72; the green opponent was corrected to the Green Bay Packers in the relevant scenes, with Packers numbers #52, #63, #73 and possible #56. The document preserves source distinctions among visual observations, user-provided subtitles, tentative identification and actor credits. Spoken names Monaghan, Lindstrom, Zebrowski, Vanowen and later roles Rob Cargil, Ellis, O'Brien, Fred Stillwell #50, Marvin Schnall #61 and Gus Petrovic #00 are recorded. The opening retirement and overly vigorous congratulation sequence concerns Vanowen, not Gus the mule; a prior assistant misattribution was corrected. It includes user-supplied SRT timecodes, Rotten Tomatoes cast/crew paste, AFI screenshot details, film production notes and screenshot filenames. The actual SRT and image binary files were NOT fetched in this audit; references in a document do not establish binary preservation.
+
+### Permanent Source Rules — Trading Cards and Madden Attribute Gap Fills
+https://docs.google.com/document/d/1UoYIwiu5FQFke0xh5O1f_XQl3LjNQyUBGL9f870JheQ/edit
+Fetched readable canonical document. Already contains TRUE/OOP/TWO arithmetic, same-player same-position same-OVR priority, attribute-specific adjacent-OVR interpolation, historical non-NFL player methodology, and a provisional historical quarterback completion-percentage-to-throw-accuracy model. Specific important reconciliation:
+- Historical database-reported Warren Moon Madden NFL 99 THA 90 and Madden NFL 2000 THA 73 are separate from model estimates 84 and 60. Two-test MAE was 9.5. The formula is not established as EA's original algorithm.
+- A tested 224-attempt shrinkage modifier predicted 85 and 90, worsening two-test MAE to 11.0. Document explicitly says NOT to adopt it as validated.
+- Historical THA is a DIFFERENT attribute from the unresolved Moon long-snap value. Do not confuse THA 90 with LS 90, or treat an A1-derived cell as a published EA rating.
+- Trading-card back statistics may remain valid even if the card-front illustration or uniform is wrong. No universal proven equations for THP, awareness, speed, agility, acceleration or OVR were found in this source.
+- No Madden rating or protected roster was modified.
+
+### Ledger
+VERIFIED READ: both canonical Drive documents above. VERIFIED WRITE: appended these findings to the existing GitHub audit ledger only. No duplicate profile, index, or planning master created.
+PENDING: original Gus SRT and screenshot binaries, Walter Payton original images/playing-style observations, original Moon and James long-snap screenshots, additional exact earlier chat passages, and licensing/seasonal product cross-references. Product-subscription and fantasy-football proposals are already recorded in this audit but require checking against a designated product-planning master.
+HOLD: full conversation completeness, attachment preservation, and deletion-readiness remain unverified.
