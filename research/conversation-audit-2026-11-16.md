@@ -75,3 +75,26 @@ Fetched readable canonical document. Already contains TRUE/OOP/TWO arithmetic, s
 VERIFIED READ: both canonical Drive documents above. VERIFIED WRITE: appended these findings to the existing GitHub audit ledger only. No duplicate profile, index, or planning master created.
 PENDING: original Gus SRT and screenshot binaries, Walter Payton original images/playing-style observations, original Moon and James long-snap screenshots, additional exact earlier chat passages, and licensing/seasonal product cross-references. Product-subscription and fantasy-football proposals are already recorded in this audit but require checking against a designated product-planning master.
 HOLD: full conversation completeness, attachment preservation, and deletion-readiness remain unverified.
+
+
+## 8. FOURTH VERIFIED AUDIT PASS — 2026-11-16 — WALTER PAYTON EXISTING ASSETS AND LICENSING STATUS
+Directly fetched and compared two existing GitHub records, rather than creating a duplicate Payton profile:
+- `athletes/walter-payton/MASTER-RECORD.md` — https://github.com/SweetT73/a1-football-encyclopedia/blob/main/athletes/walter-payton/MASTER-RECORD.md
+- `Leagues/NFL/Chicago-Bears/Halfbacks/walter-payton/PROFILE.md` — https://github.com/SweetT73/a1-football-encyclopedia/blob/main/Leagues/NFL/Chicago-Bears/Halfbacks/walter-payton/PROFILE.md
+
+### Verified existing archival text (not fresh binary inspection)
+The Payton master already cites permanent Library photograph records `10493.jpg` (ID `libfile_dcb0892892a48191899b17b9d4342add`) and `10637.jpg` (ID `libfile_e2ab87f551e881919171fc3b589cb0c9`), in `/A1 All In 1 - Comprehensive History of American Football/A1 Historical Player Encyclopedia/Walter_Payton/Photographs/`. Its October 31 ZIP audit reports source images `10635.jpg`–`10640.jpg`, Bears #34; `10637.jpg` is a designed poster and `10639.jpg` a magazine cover. It reports exact-byte duplication of `10636.jpg` and `10638.jpg` (SHA-256 `1fe2fa668a48f3bcdf64f0df5bdb70878f87d1712680f0be9391c77dd7a58412`): six filenames, five distinct byte assets. These are findings **quoted from a preexisting master**, not independently revalidated with image bytes in this pass. The original source ZIPs were reportedly retained; no image bytes were added to GitHub here.
+
+The protected Chicago roster file independently records Payton #34, HB, A1 OVR 97, 5 ft 10 in, 200 lb, targetPid 354 and baseline HEAD071. These are **protected A1 build data**, not new verified historical measurements, official EA ratings, or proof of likeness. The profile explicitly states appearance remains under review. Neither roster nor image record was changed.
+
+### Playing-style and original-image gap
+No original conversation passage establishing the user's detailed Walter Payton running-style observations was recovered in this pass. Do not invent claims about stiff arms, gait, cutting, or photograph chronology and do not equate a roster head selection with authenticated facial likeness. Need source conversation and image binaries before this section can be marked complete.
+
+### Media rights and seasonal product distinctions
+The accessible prior-conversation summary records the user's selected **initial** A1 independent film-review approach as genuine criticism/commentary with selected relevant film or trailer excerpts under a case-specific fair-use analysis; this is a **user approach**, not an established license, blanket exemption, or guarantee. Studio publicity materials and direct licenses remain possible later. Distinguish copyright in original literary source from rights in a particular translation, illustration, recorded performance, film, poster or contemporary artwork. The Christmas-comics permanent Drive plan (see section 6) already holds candidate works and the four-work starting sequence; no duplicate plan was created. The user's exact earlier licensing conversation and any images are not available in this audit pass, so those remain HOLD.
+
+### Updated ledger
+- VERIFIED READ THIS PASS: two existing Walter Payton GitHub files, plus current GitHub audit ledger.
+- VERIFIED WRITE THIS PASS: appended only this section to the existing audit ledger; no new player file, no roster changes, no original-image changes.
+- NEXT: retrieve original Payton visual/source conversation where accessible; inspect any available original Gus SRT and screenshots; reconcile film and fantasy product decisions with existing Drive masters; resolve Moon/James original screenshot evidence.
+- HOLD: full transcript and attachment completeness, user-deletion clearance and independently verified Payton playing-style analysis.
