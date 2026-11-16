@@ -39,3 +39,10 @@ Full credits: https://www.imdb.com/title/tt0074599/fullcredits/
 
 ### A1 film catalog trailer policy
 For every film where a trailer is available, attach or link an authentic trailer, clearly distinguish original theatrical trailers, re-release trailers, fan-made trailers, and official modern promotional recuts. Record the original film release metadata separately. If video availability or attribution is uncertain, leave it pending.
+
+### Short promotional clip — user-submitted (verification pending)
+- Video: https://youtu.be/-V_dyr6HBFc
+- Classification: Short promotional/excerpt clip, **not** a theatrical trailer.
+- User description: Approximately 24 seconds; possibly shows Gus kicking a football.
+- Verification: Video could not be fetched for direct inspection on November 16, 2026. Exact duration, action, publishing channel, and publication date are **not verified**. Do not assert any as established facts.
+- A1 use: Link alongside the modern promotional trailer; if later verified to show a kick, reference it from Gus's fictional placekicker character profile as a visual football-action example. Retain original creator attribution when available.
