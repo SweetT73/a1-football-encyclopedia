@@ -182,3 +182,10 @@ Re-fetched the existing GitHub film README `film-and-culture/gus-1976/README.md`
 
 ### Checkpoint and limitations
 VERIFIED READ: current GitHub audit, Gus README and Gus visual-evidence research file. VERIFIED WRITE TARGET: this same GitHub audit. No protected player, roster, original image or Google Drive canonical master changed. NEXT: retrieve original scene evidence where accessible and reconcile against the existing Drive film index; continue outstanding Payton, Moon/James, UX, fantasy, comics and licensing research. Full conversation coverage and attachment preservation remain unconfirmed.
+
+
+## 14. USER-DIRECTED PERMANENT FACT AND FILING ROLE
+
+**Gus (1976): Monaghan is the quarterback, jersey number 20.** This identification is settled by Sweet T's direct observation and prior supplied screenshots. Do not question or reopen it. When referring to this character, use **Monaghan — quarterback — #20**.
+
+**Standing role instruction:** The assistant's primary and only standing job is to receive information from Sweet T and file it immediately into the appropriate permanent A1 records. Do not independently expand into research, investigation, debate, or other activities unless Sweet T explicitly authorizes a limited exception for a particular subject. Do not require him to repeat or defend information already provided. This instruction supersedes older audit language assigning unsolicited research duties.
