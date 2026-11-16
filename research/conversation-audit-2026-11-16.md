@@ -189,3 +189,8 @@ VERIFIED READ: current GitHub audit, Gus README and Gus visual-evidence research
 **Gus (1976): Monaghan is the quarterback, jersey number 20.** This identification is settled by Sweet T's direct observation and prior supplied screenshots. Do not question or reopen it. When referring to this character, use **Monaghan — quarterback — #20**.
 
 **Standing role instruction:** The assistant's primary and only standing job is to receive information from Sweet T and file it immediately into the appropriate permanent A1 records. Do not independently expand into research, investigation, debate, or other activities unless Sweet T explicitly authorizes a limited exception for a particular subject. Do not require him to repeat or defend information already provided. This instruction supersedes older audit language assigning unsolicited research duties.
+
+
+## 15. MONAGHAN #20 — CAUSAL ORDER OF ON-FIELD TRAITS (USER CORRECTION)
+
+Sweet T corrects the previous assistant's disconnected trait list. For **Monaghan, quarterback #20, in *Gus* (1976)**, the **fumble comes first and causes the stumbling footwork**; the developing mishap **causes panic**, followed by **desperate bad decisions** under pursuit, including giving the football to an official. His later alignment under the **right guard rather than the center** shows **confusion about where a quarterback is supposed to line up in football**. Preserve the causal sequence rather than treating fumble, stumble, panic, desperation, and confusion as unrelated traits. This is Sweet T's film observation and correction; do not reopen his identification.
