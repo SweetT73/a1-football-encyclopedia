@@ -40,9 +40,14 @@ Full credits: https://www.imdb.com/title/tt0074599/fullcredits/
 ### A1 film catalog trailer policy
 For every film where a trailer is available, attach or link an authentic trailer, clearly distinguish original theatrical trailers, re-release trailers, fan-made trailers, and official modern promotional recuts. Record the original film release metadata separately. If video availability or attribution is uncertain, leave it pending.
 
-### Short promotional clip — user-submitted (verification pending)
+### Short film clip — "Gus" (Frank Magurany, 2019)
 - Video: https://youtu.be/-V_dyr6HBFc
-- Classification: Short promotional/excerpt clip, **not** a theatrical trailer.
-- User description: Approximately 24 seconds; possibly shows Gus kicking a football.
-- Verification: Video could not be fetched for direct inspection on November 16, 2026. Exact duration, action, publishing channel, and publication date are **not verified**. Do not assert any as established facts.
-- A1 use: Link alongside the modern promotional trailer; if later verified to show a kick, reference it from Gus's fictional placekicker character profile as a visual football-action example. Retain original creator attribution when available.
+- Title visible in YouTube screenshot: *Gus*
+- Uploader: **Frank Magurany**
+- Publication date visible: **October 27, 2019**
+- Description visible: **“The field kicking mule.”**
+- Classification: user-uploaded short film clip/excerpt, **not** an original theatrical trailer or an official Disney+ promotional trailer.
+- Screenshot displays a football player wearing jersey number 25 running on a field. It does **not** establish the entire clip's sequence or the identity of that player.
+- User estimates duration around 24 seconds; precise duration remains unverified.
+- Research value: linked visual excerpt for film and fictional football character research; verify actual kicking footage before describing specific kicks, and do not misidentify #25.
+- User-provided visual source: screenshot of the YouTube video details. Preserve uploader credit and link; do not copy/rehost clip.
