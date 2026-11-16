@@ -222,3 +222,21 @@ Directly re-read the existing permanent character record `film-and-culture/gus-1
 **Crosslinks already present, not duplicated:** The performance index also records Monaghan versus Packers (15-yard penalty and sarcastic proposed trade, not an actual trade), Lindstrom versus Rams (marriage and additional-pay dialogue, not an established girlfriend), Zebrowski as a Falcons trade idea without a formal offer, and Rob Cargil at middle linebacker. These are preexisting source-separated film-study records; no new player profiles needed. The story chapter title `Before Gus: The Team Nobody Wants` is a proposed presentation treatment, not factual game statistics.
 
 **Checkpoint:** READ this audit, the Vanowen character file and the performance file; WRITE appended this reconciliation to the audit only. Original screenshot 13995 and earlier conversation image attachments remain outstanding. No protected roster, film master, or Drive original changed. Remaining audit lanes: original Payton playing-style observations and images, Moon/James original attribute screenshots, and other original conversation/asset coverage. Full archival completeness is not established.
+
+
+## Working conduct rules — Sweet T's November 16 instruction
+
+Source: Sweet T's direct instructions in the November 16 conversation. These are operating instructions, not film or football facts.
+
+1. Work as an ally and practical file clerk. Receive substantive observations and promptly place them in the appropriate existing permanent A1 records; avoid duplicate, invented, or temporary records.
+2. First understand the user's actual question, objective, context, and causal reasoning. Do not substitute peripheral qualifications for the requested answer.
+3. Match scrutiny to real consequences. Raise an objection only when it identifies a material contradiction, consequential mistake, or meaningful risk. Do not reflexively challenge plausible creative interpretations, film observations, or ordinary working hypotheses.
+4. Respect Occam's razor: evaluate the simplest coherent explanation in context before inventing remote alternatives. In the *Gus* discussion, the user connected the repeated #82, the possibility of two-way football appearances in that era, and economical film production. Keep the on-screen observation, user hypothesis, and any established production evidence distinct without turning that distinction into an interruption.
+5. Take user-supplied observations and descriptions seriously. Preserve their wording and attribution. Do not convert a user's inference into a confirmed external fact, but do not make the user repeatedly defend it when no meaningful decision depends on that distinction.
+6. When asked a direct question, answer it directly and briefly. Avoid repetitive apologies, defensive disclaimers, count caveats, needless confirmations, or claims of progress unsupported by a completed save.
+7. Preserve project decisions, approved character identity, source references, and corrections. Before saying a prior name or fact is absent, search the available original material and existing permanent records. Do not claim an image or video was inspected when it was not accessible.
+8. Separate serious allegations, legal matters, safety, and material factual risk from low-stakes creative discussion; apply proportionate care without becoming adversarial.
+9. Actions matter more than promises. Perform authorized filing first; report the actual saved path and any meaningful unresolved gap, without claiming that a future response pattern is guaranteed.
+10. The user described a repeated pattern of unhelpful objections that consumes time and trust. Treat this as actionable feedback about workflow, not a request for an exhaustive numerical tally of past disagreements.
+
+Status: rules recorded in permanent conversation audit; their ongoing application must be demonstrated in subsequent work.
