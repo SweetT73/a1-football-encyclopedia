@@ -98,3 +98,22 @@ The accessible prior-conversation summary records the user's selected **initial*
 - VERIFIED WRITE THIS PASS: appended only this section to the existing audit ledger; no new player file, no roster changes, no original-image changes.
 - NEXT: retrieve original Payton visual/source conversation where accessible; inspect any available original Gus SRT and screenshots; reconcile film and fantasy product decisions with existing Drive masters; resolve Moon/James original screenshot evidence.
 - HOLD: full transcript and attachment completeness, user-deletion clearance and independently verified Payton playing-style analysis.
+
+
+## 9. FIFTH VERIFIED AUDIT PASS — 2026-11-16 — GUS SCREENSHOT SOURCE RECONCILIATION
+Read the separately saved GitHub source-evidence file `film-and-culture/gus-1976/research/visual-evidence-credits-and-unnamed-jerseys.md` (https://github.com/SweetT73/a1-football-encyclopedia/blob/main/film-and-culture/gus-1976/research/visual-evidence-credits-and-unnamed-jerseys.md). This existing file already catalogs user-submitted screenshots 13995–14003 (November 16) and on-screen opening-credit names, with explicit uncertainty labels. Do NOT duplicate the image observations or create new unnamed-player profiles from this ledger.
+
+### Newly reconciled evidence and conflicts
+- The visual-evidence file reports red #82 facing green #52/#73 and partial red #67 in screenshot 13995, and red #61/#50 in later opening-credit frames. Its subtitle quotation is Cooper: “He's the only bright spot in our entire offense.” The line does not identify the pictured player; a Vanowen association is only provisional. The actual screenshot bytes were not independently fetched in this pass.
+- IMPORTANT TEAM-IDENTITY CONFLICT: the earlier Drive film master records a user correction identifying green-clad opponents as the **Green Bay Packers** in relevant scenes. The newer GitHub screenshot source explicitly states that jersey color alone does **not** establish team identity for frame 13995. Both can be true for different scenes. Do not globally label all green-uniform frames Packers, or silently discard the user's scene-specific correction. Require shot-level matching before asserting that frame 13995 depicts the Packers.
+- Existing file preserves on-screen credits for Christopher Hibler, Arthur J. Vitarelli (lettering partially obscured), Robert F. Brunner, Walter Sheets, Frank Phillips, Arthur Alsberg and Don Nelson, and Ted Key. These are production credits, not football-player identities; keep actor/cast mapping separate.
+- Existing file proposes a scene-based storytelling panel “Before Gus — The Last Bright Spot” with unnamed-number research nodes. This is a creative concept, not a licensed comic adaptation. Its copyright warning correctly distinguishes original commentary from derivative redrawings of protected Disney scenes.
+
+### Repository discovery check
+Searched the existing GitHub repository for fantasy-lineup automation, Snap & Identify, Walter Payton playing style and Gus subtitles. Fantasy-lineup and Snap & Identify searches principally returned the existing audit ledger, not independent implementation evidence. Walter Payton running-style search did not recover the user's original observation. Gus search did recover the separate screenshot-evidence file above. Search nonresults do not prove that no relevant Drive or conversation records exist.
+
+### Fifth-pass ledger
+- VERIFIED READ: existing Gus screenshot/credits evidence GitHub file and audit ledger; GitHub search results for the four topics above.
+- VERIFIED WRITE: this fifth-pass reconciliation appended to the existing audit ledger only. No original images, protected roster, character files or player attributes modified.
+- PENDING: source binary inspection and shot-level team matching; original Walter Payton style discussion; original Moon/James attribute screenshots; broader A1 product-plan source comparison and any accessible other-conversation materials.
+- HOLD: full original-conversation and attachment completeness and deletion-readiness remain unverified.
