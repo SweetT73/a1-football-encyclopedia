@@ -240,3 +240,7 @@ Source: Sweet T's direct instructions in the November 16 conversation. These are
 10. The user described a repeated pattern of unhelpful objections that consumes time and trust. Treat this as actionable feedback about workflow, not a request for an exhaustive numerical tally of past disagreements.
 
 Status: rules recorded in permanent conversation audit; their ongoing application must be demonstrated in subsequent work.
+
+
+### Gus (1976) — Zebrowski, #77
+User-supplied still image shows a man holding his forehead with subtitle: “Uh, this is Zebrowski, Mr. Cooper.” Sweet T identifies Zebrowski as California Atoms jersey #77, placekicker. His distinctive on-field gag: during the kicking approach he stumbles over his feet, kicks the back of his own heel rather than the ball, and falls face-forward. Record separately from Vanowen (#82), whom Sweet T identifies as placekicker and tight end. Attribution: user's film observation; the still directly supports the spoken name, not the jersey number or action sequence.
