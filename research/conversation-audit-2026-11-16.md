@@ -199,3 +199,8 @@ Sweet T corrects the previous assistant's disconnected trait list. For **Monagha
 ## 16. MONAGHAN #20 — APPROVED CHARACTER TRAIT WORDING
 
 Sweet T selects **lack of awareness / lack of focus** rather than 'confused' or 'clueless' as the relevant football trait for Monaghan, quarterback #20, lining up under the right guard instead of the center. Preserve the exact distinction: **not focused; not aware**. Earlier labels 'confused' and 'clueless' are superseded for this scene.
+
+
+## 17. GUS (1976) — VANOWEN #82 RECOVERED FROM PRIOR DISCUSSION
+
+**Vanowen — California Atoms former placekicker — jersey #82 (Sweet T's earlier identification, recovered from conversation).** He had kicked a successful field goal; teammates' exuberant celebration injured him, and he retired/was no longer on the team. The team discussed persuading him to return. Earlier audit mistakenly left #82 unidentified despite Sweet T's repeated photo-based identification. **Do not conflate Vanowen with replacement kicker O'Brien, whose number is not established.** File as user-provided identification; do not reopen it simply because older notes were incomplete.
