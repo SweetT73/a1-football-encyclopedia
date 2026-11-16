@@ -132,3 +132,24 @@ Read a previously uninspected existing file in the designated Da Suga of Sweet T
 ### Sixth-pass ledger
 VERIFIED READ: existing Payton Drive research file, existing film product master, designated Drive searches for fantasy, subscriptions, Walter Payton and Gus, and the current GitHub audit. VERIFIED WRITE: appended this reconciliation to the same GitHub audit only. NO player/roster/ratings, photographs, original chat messages, Google Docs, or product terms were changed.
 PENDING: source conversation with Sweet T's exact Payton running-style observations, original Payton photographs, Moon/James screenshot binaries, Gus original SRT and images, further licensing/holiday material, and full earlier-conversation coverage. HOLD: complete preservation and deletion readiness.
+
+
+## 11. SEVENTH VERIFIED AUDIT PASS — 2026-11-16 — GUS TRAILER CLASSIFICATION AND CHARACTER-INDEX CROSSCHECK
+
+Fetched three additional existing GitHub canonical files:
+- `film-and-culture/gus-1976/README.md`
+- `film-and-culture/gus-1976/characters/gus.md`
+- `film-and-culture/gus-1976/cast/dick-butkus.md`
+
+### Newly confirmed pre-existing archive coverage
+The film index already classifies *Gus* as a 1976 original theatrical Disney film (July 7, 1976) and separates the fictional California Atoms, real performers, fictional football characters, and a real athlete appearing as himself (Johnny Unitas). Its cast entries include Andy Petrovic/Gary Grimes, Rob Cargil/Dick Butkus, Calvin Barnes/Timothy Brown, Coach Venner/Don Knotts, Hank Cooper/Ed Asner, and others. Character position, measurements and equipment are explicitly left unverified where appropriate. The mule Gus has a separate canonical fictional-character page: placekicker with an **in-story** 100-yard field-goal claim, not an actual NFL record and not a conventional human Madden draft-class candidate. The Dick Butkus performer file explicitly separates actor measurements and appearance from fictional character facts. These distinctions are already filed and require no duplicate profile.
+
+### Two previously unreviewed video references
+The existing film README records the Disney Plus modern promotional re-cut at https://youtu.be/rg-9SemfezA (screenshot-reported October 27, 2020 publication), explicitly **not** the original 1976 theatrical trailer. It separately records Frank Magurany's YouTube excerpt at https://youtu.be/-V_dyr6HBFc (screenshot-reported October 27, 2019); a #25 jersey appears in the supplied thumbnail, but neither the player's identity nor the complete clip contents are verified. The user's estimate of about 24 seconds is not a measured duration. No videos were played or downloaded in this pass; these are **existing archival descriptions**, not fresh video authentication.
+
+The README also preserves an A1 trailer-classification policy: link available trailers with source, date, and category, distinguishing original theatrical, re-release, official modern promotional recut, and fan-made material. Preserve original release metadata independently of streaming and promotion dates. The promotional synopsis about Gus's 100-yard capability and attempted kidnapping is marked as user-supplied text with unresolved original attribution, not verified scene chronology.
+
+### Seventh-pass checkpoint
+VERIFIED READ: the three existing Gus GitHub files and the prior audit. VERIFIED WRITE: append this section to the same GitHub audit file, not to protected character/player records. NO new character, performer, video, film or roster file created. NO media copied or hosted.
+
+PENDING: inspect original videos and user-submitted screenshots/SRT if accessible; original Walter Payton image/observation evidence; Moon/James Madden screenshot originals; exact older conversation passages; further licensing and product evidence. Full transcript/attachment completeness remains HOLD.
