@@ -244,3 +244,14 @@ Status: rules recorded in permanent conversation audit; their ongoing applicatio
 
 ### Gus (1976) — Zebrowski, #77
 User-supplied still image shows a man holding his forehead with subtitle: “Uh, this is Zebrowski, Mr. Cooper.” Sweet T identifies Zebrowski as California Atoms jersey #77, placekicker. His distinctive on-field gag: during the kicking approach he stumbles over his feet, kicks the back of his own heel rather than the ball, and falls face-forward. Record separately from Vanowen (#82), whom Sweet T identifies as placekicker and tight end. Attribution: user's film observation; the still directly supports the spoken name, not the jersey number or action sequence.
+
+
+## 20. TWELFTH AUDIT INCREMENT — GUS CANONICAL RECONCILIATION
+Existing Gus character pages already contained Sweet T's observations, but stale opening sentences called the jerseys and positions unknown. Updated those summaries to reflect the attributed working identities: Zebrowski #77 placekicker, Vanowen #82 placekicker/tight end. Crosslinked the film visual-evidence file to the two existing character pages. Kept screenshot `14038.jpg` subtitle evidence separate from user observations about #77, and screenshot `13995` visible #82 separate from the user-supplied name match.
+
+Confirmed saves:
+- `film-and-culture/gus-1976/characters/zebrowski.md` commit `f02bba55e0da27f4cdc7b465deb4dcac4ba433c8`
+- `film-and-culture/gus-1976/characters/vanowen.md` commit `36b63f424d8fa543d23afc7782febe1938874404`
+- `film-and-culture/gus-1976/research/visual-evidence-credits-and-unnamed-jerseys.md` commit `75549ba774fb1a159ee2ea5a92df3ba52efa37b4`
+
+Checkpoint: three existing Gus files reconciled; this audit ledger updated afterward. The Da Suga of Sweet T Drive account was accessible through search, but the broad A1 results did not supply sufficient title information to select a canonical Drive document for modification; no Drive write. Other research lanes and complete historical attachment coverage remain outstanding. Continue from this checkpoint without duplicating Gus entries. Player-profile automation remains separate.
