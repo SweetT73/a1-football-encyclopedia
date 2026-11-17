@@ -23,3 +23,9 @@ Story chapter "Before Gus — The Last Bright Spot": dramatic visual panel of an
 
 ## Copyright and adaptation caution
 A fictional film's characters, distinctive appearances, audiovisual sequence and dialogue can be protected. A redrawn comic adaptation with the same characters/scenes can be derivative even without selling the drawings separately; paid database access still counts as commercial exploitation. Prefer licensed images or original, clearly labeled **commentary and analysis** visualizations. Fair use is case-specific, not automatic. Do not render or market unauthorized full-scene adaptations as safely cleared.
+
+
+## Subsequent user identifications and crosslinks — November 16, 2026
+Sweet T identifies **#82 as Vanowen**, appearing as placekicker and tight end; see [Vanowen](../characters/vanowen.md). The earlier still `13995` directly shows a red #82, but does not independently match a name to that jersey. Actor doubling and production economy remain a user hypothesis, not documented production facts.
+
+The separate submitted still `14038.jpg` has the subtitle **“Uh, this is Zebrowski, Mr. Cooper.”** Sweet T identifies **Zebrowski as #77, placekicker**, whose kicking approach ends in a stumble, heel strike, and face-forward fall; see [Zebrowski](../characters/zebrowski.md). The still directly shows the name in the subtitle, while the number and kicking action come from Sweet T's viewing. These are two separate named characters.
