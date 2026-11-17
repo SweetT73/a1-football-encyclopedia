@@ -255,3 +255,20 @@ Confirmed saves:
 - `film-and-culture/gus-1976/research/visual-evidence-credits-and-unnamed-jerseys.md` commit `75549ba774fb1a159ee2ea5a92df3ba52efa37b4`
 
 Checkpoint: three existing Gus files reconciled; this audit ledger updated afterward. The Da Suga of Sweet T Drive account was accessible through search, but the broad A1 results did not supply sufficient title information to select a canonical Drive document for modification; no Drive write. Other research lanes and complete historical attachment coverage remain outstanding. Continue from this checkpoint without duplicating Gus entries. Player-profile automation remains separate.
+
+
+## 21. THIRTEENTH AUDIT INCREMENT — ORIGINAL AI/HORSE COMEDY TANGENT
+
+**Scope:** Relevant creative-media tangent surfaced in the accessible November 16 conversation summaries, not a football player or a *Gus* cast fact. Preserve here as a cross-workstream intake reference pending placement in an established, appropriate creative/comedy master; do not fabricate a new A1 player record or assume permission to publish.
+
+**Sweet T's original joke, exact wording:** “It is true a horse may not choose to drink after you have led it to water, but at least, you can lead a horse to water.” User attribution: Sweet T; intended as the beginning of a possible collection of AI jokes, in the spirit of Chuck Norris jokes. Do not silently rewrite his punchline or assign authorship to someone else.
+
+**Performance plan and user-supplied materials:** A short stand-up presentation with Sweet T standing in a small venue, potential light audience laughter, and deliberate comedic timing. User reported an approximately 13–15-second target, with an earlier performance pushing roughly 11 seconds and a shortened pause. The user submitted an audio file named `horse versus water joke take two.wav` and asked for tone/delivery feedback. He noted that comedians practice material repeatedly and that this was an early open-mic-like take. He was considering AI voice characterization if his own recording could not be used. The original audio bytes and voice qualities were not examined in this pass; do not invent a voice description or a performance evaluation.
+
+**Two user-supplied short-video references for delivery and visual staging (URLs only; content not reviewed in this pass):**
+- https://youtube.com/shorts/5MojfHtRRxs?is=N03uC-Jip6jatils
+- https://youtube.com/shorts/Lwl_2m0Qn0s?is=EVU2nlhFE8pQViA2
+
+**Distinctions:** The joke and performance goals are user-provided; no final video, laugh track, voice model, stage animation, or licensed use of example clips is established. This creative-media tangent is separate from the fictional football film database. Do not treat it as a released A1 product.
+
+**Checkpoint:** Existing *Gus* Zebrowski and Vanowen character files and screenshot crosslinks were re-read this increment; their November 16 additions are already present, so no duplicate write. The current ledger contains earlier inspected Drive master links, but no new Drive read or write was performed in this increment. Next useful source retrieval: original audio and video content if accessible, then locate an existing creative-comedy master before moving the intake entry. Continue pending Payton image, Moon/James screenshot, subscription/fantasy and comics-source coverage without changing protected roster or the independent player-profile automation. Full historical conversation/attachment coverage remains unconfirmed.
