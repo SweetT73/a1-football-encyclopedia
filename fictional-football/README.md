@@ -23,3 +23,13 @@ Navigate **A1 > Fictional American Football > Films > Football Films > individua
 - Film: *Any Given Sunday* (1999) > Miami Sharks > Willie “Steamin” Beamen and other film-verifiable players; add additional fictional teams as independently documented.
 
 This is the **navigation and filing view**. Underlying GitHub canonical storage may use normalized /teams and /players locations with direct references; pages must expose the work > team > player structure immediately.
+
+## Comics, adaptations, and rights boundaries
+
+Comics belong in the `works/` original-medium index when they depict fictional American football. A seasonal Christmas comic based on a non-football literary work belongs in the separate existing A1 Christmas Comics permanent plan, **not** in this football branch merely because both projects use illustrated storytelling. Cross-link only when a work genuinely includes a football character, team, or scene.
+
+Sweet T's creative direction allows a **deliberate comic-book-style transformation** as a distinct presentation choice; routine cleanup, recoloring, decolorizing, or zooming of a real person's reference must preserve that person's underlying identity and appearance. This is a user design instruction, not a claim that particular generated images have been visually reviewed or cleared for distribution.
+
+Before publishing or selling adaptations, distinguish a public-domain underlying story from separately protected translations, illustrations, character designs, photographs, films, recorded performances, and modern editions. Do not treat a public-domain story as a blanket license to redraw protected film scenes. Film or trailer excerpts for genuine review/commentary require case-specific fair-use analysis; neither fair use nor a later studio license is assumed. These are publication safeguards, not evidence of obtained rights.
+
+**Permanent related project:** [A1 Christmas Comics — Ten Public-Domain Story Candidates and Sales Plan](https://docs.google.com/document/d/1Elsj6Hnf8jfBz3IdtEGlzKtyOcAgKNYtPu0cWBwOBmU/edit). The previously recorded opening sequence is *A Christmas Carol*, *The Gift of the Magi*, *A Visit from St. Nicholas*, then *The Nutcracker and the Mouse King*; proposed pricing and publication remain proposals, not launched products. Source provenance: earlier A1 conversation recovery documented in `research/conversation-audit-2026-11-16.md`, especially sections 6 and 24. Original image pixels and underlying publication rights were not reexamined for this note.
