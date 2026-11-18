@@ -12,3 +12,7 @@ The October 14, 2026 A1 208-originals reconciliation names Steve McMichael in th
 - The original image bytes are **not included in this GitHub individual folder** by this record creation. Existing Library preservation must be checked against source SHA-256 before declaring photographs permanently transferred here.
 - Source descriptions and prior user identifications are preserved without changing them. A matching filename alone does not establish a new identity, game, honor, or career statistic.
 - No A1 website page was modified.
+
+## October 2026 user-supplied historical ranking graphic — opinion, not career fact
+
+A social-media defensive-tackle top-20 graphic attributed to **@collectibals**, in Sweet T's October 13, 2026 screenshot (recorded time 12:01), placed **Steve McMichael at #14**, with a Chicago Bears logo/uniform. This is the graphic creator's ranking, **not** an official NFL ranking or an A1 endorsement. The team shown is a visual label, not a complete career-history claim. The original screenshot binary was not inspected in this filing; the transcription is in the existing Da Suga of Sweet T Drive research source [`A1_PLAYER_RESEARCH_HARVEST_2026-11-08.md`](https://drive.google.com/file/d/1N_F2EWaVX62LuvDUxmaCKL0NmP92ePnY/view), under “Defensive tackles.” The same graphic is cross-referenced in the existing [Bears franchise archive](../../../Leagues/NFL/Chicago-Bears/README.md); retain one player identity and do not create a second image or player record.
