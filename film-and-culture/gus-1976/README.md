@@ -58,3 +58,11 @@ The film is described as a comedy featuring Don Knotts and Tim Conway. The strug
 - Supplied verbatim by Sweet T on November 16, 2026; original wording/source owner not yet established. This is marketing description, not a verified play-by-play record.
 - Searchable themes: underdog football team; animal athlete; placekicking; 100-yard field goal (fictional); kidnapping plot; family sports comedy.
 - **Continuity note:** This 100-yard claim is an in-universe promotional claim and must not be treated as a real NFL record.
+
+## Subtitle evidence and on-screen identification — A1 archival rule (November 2026)
+
+Sweet T supplied an English subtitle attachment named `Gus (1976)-en.srt` and requested extraction of every substantive football-related name, jersey number, uniform, team, and film-character crosslink. The earlier A1 conversation audit reports **1,237 subtitle cues ending at 1:36:47**, but those numbers are a prior transcription claim; the original subtitle bytes were not reopened for this entry.
+
+**Evidence separation:** Subtitle dialogue can support spoken names and approximate dialogue timecodes. It cannot establish what appears visually: a jersey number, uniform color, player face, player identity, equipment, or a shot-by-shot sequence. Sweet T's visual identifications must be retained as user observations until compared with actual frames. Cast credits, actor identities, fictional character identities, and actual professional-player identities must be linked without merging their records. Preserve the original subtitle filename as the source lead, without asserting that the attachment or film footage has been copied into this GitHub repository.
+
+**Open source work:** Reopen the original subtitle file and inspect corresponding film frames when accessible; associate exact cue numbers and timestamps with visual frames, and record each named fictional football player once in the existing character hierarchy. Do not infer unseen visual details or create duplicate character records. This section is a permanent film-index instruction and provenance record, not a temporary checklist or claim that the film-wide visual audit is complete.
