@@ -16,3 +16,15 @@ Correct mistakes directly in the corresponding permanent player record; keep tea
 ## 1985 defensive unit and postseason research scope
 
 **Sweet T's A1 filing directive (recovered from the conversation audit):** Build and maintain individual permanent research records for William “Refrigerator” Perry, Steve McMichael, Dan Hampton, Richard Dent, Wilber Marshall, Mike Singletary, Gary Fencik, Dave Duerson, Mike Richardson, and Leslie Frazier. Research the **46 defense** as a distinct tactical innovation, and preserve **Super Bowl XX**, the **NFC Championship**, and the **AFC Championship** as distinct postseason event records in the appropriate existing league/playoff hierarchy. The AFC Championship is a cross-conference event, not a Bears game. This is a requested research and organization scope, **not** a claim that all ten biographies or postseason records have been completed, or that every named player was on the field for every play. Reconcile with existing individual records before adding anything; do not create duplicate player identities, temporary holding areas, or checkpoint documents. No protected 70-player Madden roster values are changed by this research directive.
+
+## User-supplied October 2026 historical ranking graphics — Bears cross-references
+
+A Google Drive source transcription, [`A1_PLAYER_RESEARCH_HARVEST_2026-11-08.md`](https://drive.google.com/file/d/1N_F2EWaVX62LuvDUxmaCKL0NmP92ePnY/view), records ten user-submitted screenshot captures dated October 12–13, 2026 (nine distinct graphics because two captures repeat the same wide-receiver comparison). These are **third-party creator opinions and depicted team logos**, not A1 rankings or verified football achievements. Relevant Chicago Bears appearances in the transcription are:
+
+- `@collectibals` defensive tackles: Steve McMichael #14 (Bears logo shown).
+- `@collectibals` defensive ends: Richard Dent #14 and Doug Atkins #17 (Bears logos shown).
+- `@collectibals` middle linebackers: Dick Butkus #2, Mike Singletary #4, Brian Urlacher #8, and Bill George #16 (Bears logos shown).
+- `@collectibals` offensive guards: Dan Fortmann #17 (Bears logo shown).
+- `@worthknowingmedia` NFL legends: Dick Butkus #4 and Walter Payton #8 (Bears logos shown); the graphic's dates are transcribed claims, not independently verified here.
+
+A repeated player name across graphics refers to the **same athlete**, not a second player identity. Rankings and uniforms belong to the graphic creator's depiction; do not use them to change A1 historical assessments, player statistics, Madden attributes, or the protected Bears roster. The source transcription retains original screenshot filenames and the wider non-Bears rankings; the screenshots themselves were not archived in that text file.
