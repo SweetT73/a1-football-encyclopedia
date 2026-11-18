@@ -24,3 +24,7 @@
 **Research policy:** Expand accurate football biography, season statistics, photos with source/provenance, awards and career history directly within this individual player folder as verified. Distinguish historical true positions from roster-specific gameplay position. If the player has an existing A1 master identity under `athletes/`, reconcile before duplication; this folder holds Chicago-specific playable and historical facts.
 
 [Return to the Chicago Bears roster](../../ROSTER.md) · [Chicago Bears public page](../../index.html)
+
+## Permanent research and visual crosslink
+
+[Walter Payton — A1 permanent individual master record](../../../../athletes/walter-payton/MASTER-RECORD.md) preserves the existing photographic asset inventory, exact-byte duplicate determination (`10636.jpg`/`10638.jpg`), source-limited observations of `10493.jpg`, and the separate A1 Madden 27 playing-style, abilities, appearance and equipment selections. Treat the master as the provenance and historical-research record; this Chicago Bears page remains the playable roster view. The reported vaulting photograph is an earlier source-ledger observation, not a fresh frame inspection. A1 game settings are not authenticated original EA ratings or proof of historical footage. Do not create another Payton identity, copy uncertain image labels into player identifications, or alter the protected 70-player roster.
