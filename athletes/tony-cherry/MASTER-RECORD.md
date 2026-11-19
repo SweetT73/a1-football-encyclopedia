@@ -26,3 +26,7 @@ Birthplace and date, family, high school, earlier professional or college achiev
 ## Preservation
 
 This is the one public A1 canonical research record for this identified individual; future documented evidence is added **in place**. No temporary profile or duplicate identity should be created. No photo bytes were attached to this text record. The user's declaration, class concept and research framework are credited to Sweet T.
+
+## 1987 sideline photograph — linked research lead
+
+Sweet T's previously discussed San Francisco 49ers sideline group image was reported to show **#48 Mike Varajon, #64 Michael Durrette, and #23 Tony Cherry**. The existing [Mike Varajon permanent record](../mike-varajon/MASTER-RECORD.md) preserves the more specific attribution lead: Getty Images **#57148878**, photographer **Michael Zagaris**, **Giants Stadium, October 5, 1987**. These are attributed research leads and user-supplied identifications, **not independent visual authentication** of Tony Cherry in the photograph. The image's original bytes, rights status, and permanent storage location have not been established by this cross-reference. Do not create a second group-image asset or infer game participation from the photograph.
