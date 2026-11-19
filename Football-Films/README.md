@@ -18,3 +18,10 @@ This taxonomy governs football-related films and their crosslinks to the broader
 ### A1 independent film selections and review-video direction
 
 Sweet T proposed annual independent favorite-film selections or awards, potentially opening nominations around the Academy's Oscar nomination announcement, reviewing eligible nominated films before the ceremony, and announcing A1 selections near the ceremony. **This is a proposed editorial calendar**, not a launched award or a fixed 2027 commitment. His intended starting approach for video criticism is genuine review/commentary with selected relevant film or trailer excerpts evaluated for fair use **case by case**. Neither copyright clearance nor an automatic fair-use guarantee follows from calling a video a review; studio publicity access or licensing can be considered later. Preserve creator credits, source references and the difference between footage of actual football competition and fictional dramatization.
+
+## *Gus* (1976) — permanent fictional-football film crosslinks
+
+- [Film and fictional California Atoms index](../film-and-culture/gus-1976/README.md) — theatrical film classification, cast/character distinctions and the mule Gus as a fictional placekicker, not a human Madden draft prospect.
+- [Scene-based player performance and roster-value study](../film-and-culture/gus-1976/research/film-study-players-performance.md) — Sweet T's screenshot-led observations and separately qualified dialogue evidence, including Monaghan, Lindstrom, Zebrowski, Vanowen and the Atoms' coaching assessments. A sarcastic proposed trade is not a transaction, and a character's poor awareness is not a measured Madden attribute.
+
+These are navigation links to the existing permanent topical records, not duplicate character biographies or independent verification of original footage. Keep real performers, fictional characters and real athletes distinct.
