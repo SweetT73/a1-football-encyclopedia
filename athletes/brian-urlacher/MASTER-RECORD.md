@@ -9,3 +9,7 @@
 
 ## Permanent filing rule
 Append only newly established individual facts with original citations, preserving contradictory evidence separately. Do not create temporary folders, staging records or checkpoint files.
+
+## October 2026 user-supplied third-party ranking graphic
+
+Sweet T's October 12–13, 2026 screenshot collection, transcribed in the existing [A1 player research harvest](https://drive.google.com/file/d/1N_F2EWaVX62LuvDUxmaCKL0NmP92ePnY/view), reports **@collectibals middle linebackers: #8** for this player, with a Chicago Bears logo depicted. This is the graphic creator's subjective placement, **not** Sweet T's own ranking, an A1 evaluation, a Madden attribute, or a historical performance statistic. The source transcription was cross-referenced against the [permanent Bears franchise archive](../../Leagues/NFL/Chicago-Bears/README.md); original screenshot pixels were not reexamined in this filing. Preserve the existing player identity and original images; do not duplicate the player or change protected roster values.
