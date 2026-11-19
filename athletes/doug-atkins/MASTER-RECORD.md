@@ -11,3 +11,7 @@ The source report says the image `10490.jpg` was saved with matching SHA-256 `cd
 ## Provenance and limits
 
 This GitHub entry permanently cross-references the previously reported Library photograph filing. **No image bytes were copied into GitHub in this run**, and the individual photograph subjects, visual duplicates and provenance were not independently re-examined. Do not treat the filenames alone as proof of a solo portrait, an exact year, or athletic statistics. No source conversation is declared fully cleared for deletion.
+
+## October 2026 user-supplied third-party ranking graphic
+
+Sweet T's October 12–13, 2026 screenshot collection, transcribed in the existing [A1 player research harvest](https://drive.google.com/file/d/1N_F2EWaVX62LuvDUxmaCKL0NmP92ePnY/view), reports **@collectibals defensive ends: #17** for this player, with a Chicago Bears logo depicted. This is the graphic creator's subjective placement, **not** Sweet T's own ranking, an A1 evaluation, a Madden attribute, or a historical performance statistic. The source transcription was cross-referenced against the [permanent Bears franchise archive](../../Leagues/NFL/Chicago-Bears/README.md); original screenshot pixels were not reexamined in this filing. Preserve the existing player identity and original images; do not duplicate the player or change protected roster values.
