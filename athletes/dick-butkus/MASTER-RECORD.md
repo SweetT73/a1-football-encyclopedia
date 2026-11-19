@@ -9,3 +9,7 @@
 ## October 2026 user-supplied third-party ranking graphic
 
 Sweet T's October 12–13, 2026 screenshot collection, transcribed in the existing [A1 player research harvest](https://drive.google.com/file/d/1N_F2EWaVX62LuvDUxmaCKL0NmP92ePnY/view), reports **@collectibals middle linebackers: #2** for this player, with a Chicago Bears logo depicted. This is the graphic creator's subjective placement, **not** Sweet T's own ranking, an A1 evaluation, a Madden attribute, or a historical performance statistic. The source transcription was cross-referenced against the [permanent Bears franchise archive](../../Leagues/NFL/Chicago-Bears/README.md); original screenshot pixels were not reexamined in this filing. Preserve the existing player identity and original images; do not duplicate the player or change protected roster values.
+
+## Additional October 2026 ranking-graphic source
+
+The same October 2026 user-supplied collection separately reports **Dick Butkus #4** on the **@worthknowingmedia NFL legends** graphic with a Bears logo. This is a *second graphic*, not a second athlete identity, and its creator's opinion must not be conflated with the @collectibals middle-linebacker #2 placement or A1 ratings. The original screenshot bytes were not independently inspected in this update.
