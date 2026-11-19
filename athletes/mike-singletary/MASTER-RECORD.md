@@ -14,3 +14,7 @@ The October 14, 2026 A1 208-originals reconciliation names Mike Singletary in th
 - The original image bytes are **not included in this GitHub individual folder** by this record creation. Existing Library preservation must be checked against source SHA-256 before declaring photographs permanently transferred here.
 - Source descriptions and prior user identifications are preserved without changing them. A matching filename alone does not establish a new identity, game, honor, or career statistic.
 - No A1 website page was modified.
+
+## October 2026 user-supplied third-party ranking graphic
+
+Sweet T's October 12–13, 2026 screenshot collection, transcribed in the existing [A1 player research harvest](https://drive.google.com/file/d/1N_F2EWaVX62LuvDUxmaCKL0NmP92ePnY/view), reports **@collectibals middle linebackers: #4** for this player, with a Chicago Bears logo depicted. This is the graphic creator's subjective placement, **not** Sweet T's own ranking, an A1 evaluation, a Madden attribute, or a historical performance statistic. The source transcription was cross-referenced against the [permanent Bears franchise archive](../../Leagues/NFL/Chicago-Bears/README.md); original screenshot pixels were not reexamined in this filing. Preserve the existing player identity and original images; do not duplicate the player or change protected roster values.
