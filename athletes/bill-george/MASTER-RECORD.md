@@ -11,3 +11,7 @@ The source report says the image `10490.jpg` was saved with matching SHA-256 `cd
 ## Provenance and limits
 
 This GitHub entry permanently cross-references the previously reported Library photograph filing. **No image bytes were copied into GitHub in this run**, and the individual photograph subjects, visual duplicates and provenance were not independently re-examined. Do not treat the filenames alone as proof of a solo portrait, an exact year, or athletic statistics. No source conversation is declared fully cleared for deletion.
+
+## Additional October 2026 ranking-graphic source
+
+The October 12–13, 2026 user-supplied screenshot transcription in the [A1 research harvest](https://drive.google.com/file/d/1N_F2EWaVX62LuvDUxmaCKL0NmP92ePnY/view) reports **Bill George #16** on the **@collectibals middle linebackers** graphic with a Bears logo. This is a third-party creator's ranking, not an A1 ranking, Sweet T's evaluation, a Madden attribute, or a verified statistic. The original image bytes were not independently inspected in this update.
