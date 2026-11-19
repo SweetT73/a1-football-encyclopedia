@@ -74,3 +74,10 @@ A1 pages teach the subject's entire life and achievements. They are not mourning
 - Reuse, crop, colorize or make a grayscale version of **existing authentic photographs** when their identity/era is suitable. Do not fabricate people, settings, athletic appearances or uniforms for missing images.
 - If a photo includes unknown people, leave them unnamed. Group scans can be split into individual image crops when useful; retain the untouched originals.
 - Where exact capture year is unknown, use a sensible, user-supplied life-period grouping without labeling an unsupported date as fact. Do not overburden the published narrative with archive-management disclaimers.
+
+
+## Separate team-color photographic card treatment — November 2026 user correction
+
+This instruction concerns the **single-photograph team-color card/graphic being revised in conversation**, not the life-history page layout above. Do not generalize it into a requirement to replace the approved biography architecture.
+
+Sweet T's latest design correction specifies **one solid, uninterrupted photograph**, with a **single, visibly thick border/trim** that changes color at the photograph's midpoint: **team primary color across the upper half and team secondary color across the lower half**. Apply the same upper/lower color transition to the associated information rectangles. **Do not double-trim or create nested outlines.** The trim must be thick enough to see clearly. For the New York Jets example explicitly discussed, the **upper trim is black and the lower trim is green**; do not substitute the team's third color. This is a **user-directed visual design specification**, not evidence that a final image has been produced or approved. The conversation contains successive verbal corrections, so the final unambiguous instruction supersedes earlier reversed descriptions.
