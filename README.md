@@ -1,5 +1,5 @@
 # a1-football-encyclopedia
-A1 (All In One): A Comprehensive History of American Football
+A1 (All In 1): the comprehensive history of American football — hosted by Sweet T
 
 ## National Football League
 
