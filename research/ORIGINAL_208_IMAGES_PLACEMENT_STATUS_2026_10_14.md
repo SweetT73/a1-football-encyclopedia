@@ -24,3 +24,30 @@ PREVIOUSLY DISCARDED: 10774.jpg is documented as previously discarded by Sweet T
 CONVERSATION STATUS: DO NOT DELETE THIS CONVERSATION YET.
 
 This record is a preservation checkpoint, not a safe-deletion certificate.
+
+## October 14 original archive-integrity source
+
+Historical backup integrity result; source-archive completeness does not establish individual photo placement.
+
+# Madden 27-A1 conversation recovery status — 2026-10-14
+
+## Verified backup
+- The original-upload master manifest enumerates 208 images.
+- All 208 original image entries were read successfully from the four local original-upload ZIPs.
+- SHA-256 of each extracted original exactly matched the master manifest (208/208).
+- The ChatGPT Library contains all four original-upload ZIPs and master manifest under `_Cloud_Backups_and_Exports/A1_ALL_ORIGINAL_UPLOADS_2026-10-10` (folder listing confirmed).
+- Original source archives remain unchanged.
+
+## Not yet certified
+- This is a source-archive integrity check, NOT a verification that every original has been placed into its specific player/team/subject folder.
+- The conversation includes more than 208 images and research graphics across batches; the 208-file backup is not evidence of comprehensive coverage of every later screenshot, attachment, or conversation-only item.
+- Existing permanent player folders and research folders exist, but no exhaustive filename-to-folder reconciliation was completed in this pass.
+- The presence of source ZIPs does not establish safe deletion of the conversation.
+
+## Controlling instructions
+- Accept user-established identifications and filing assignments as final. Do not re-identify settled photographs.
+- Preserve original filenames, source relationships, cross-references, and the immutable Bears v10 roster.
+- Report individual permanent saves only after file existence verification; never substitute a manifest for the photograph.
+
+## Deletion status
+DO NOT DELETE THIS CONVERSATION YET — The individual photograph placement reconciliation and coverage of later uploads remain unverified.
