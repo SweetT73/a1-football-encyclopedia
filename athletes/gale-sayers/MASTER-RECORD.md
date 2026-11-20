@@ -31,3 +31,18 @@ Two direct web-transcription source records already exist in this same permanent
 Sweet T explicitly instructed that online card databases should be mined rather than requiring him to enter numerous game editions. Preserve the user's 91 OVR Madden 26 screenshots and any independently sourced 99 OVR card as **separate card records**, with no assumption that the 99's full attributes have been recovered. Earlier assistant claims of Madden 2003 Historic Card #187, Madden 25 94 OVR Legends LTD, and Madden 26 99 OVR Flashbacks are research leads, not substitutes for actual source cards or 53-field transcriptions. Do not overwrite the protected Bears roster or derive a final aggregate from these partial fields.
 
 **Presentation decision from Sweet T:** actual player photograph/card on the **left**; player identity, jersey number, position, OVR and ratings on the **right**; remaining attributes below in General, Offense, Defense, Special Teams. Never substitute an unrelated search image (a Brian Piccolo image was mistakenly shown for Gale Sayers), and never change the approved layout without user instruction.
+
+## A1 completion directive — November 19, 2026
+
+Sweet T approved finishing Gale Sayers using the **complete 91 OVR Madden 26 Flashbacks 53-attribute card** as the directly observed anchor. Do not wait for every annual card's 53 fields. Use real published attributes wherever available, then fill remaining *A1-derived* ratings by the established A1 equations, visibly distinguishing calculated cells from EA-observed cells. Never invent EA card data or treat derived ratings as EA transcriptions. Preserve the protected original roster and the separately identified historical 99 OVR working build until an authorized final replacement.
+
+**Annual evidence and priority**
+- Madden 20: 97 OVR Ultimate Legends; 19 published fields in existing source file. https://www.muthead.com/20/players/54124/
+- Madden 24: 96 OVR AKA Crews, original release announcement https://www.mut.gg/news/aka-crews-gale-sayers-randall-cunningham-and-ltd-ed-too-tall-jones-mut-24/ ; 93 OVR variant has 19 published fields in existing source file.
+- Madden 25: 94 OVR Legends LTD confirmed by release announcement https://www.mut.gg/news/legends-richard-sherman-todd-heap-ltd-gale-sayers-and-more-mut-25/ . Attribute table not recovered yet. User may check Madden 25 only if convenient; not necessary to prove card existence.
+- Madden 26: 91 OVR Legends LTD confirmed by release announcement https://www.mut.gg/news/legends-part-10-kurt-warner-jason-taylor-and-ltd-gale-sayers/ . Distinct from the supplied complete 91 OVR Flashbacks card.
+- Madden 26: 91 OVR Flashbacks — complete user screenshot transcription, primary direct anchor.
+
+**Known A1 comparator methodology recovered from A1 research audit:** 78% player-specific historical anchor + 22% position/OVR comparator prediction; then narrow documented archetype adjustments; directly observed EA attributes override computed estimates. The specific comparator data, per-attribute mapping and rounding procedure still need to be recovered before responsibly calculating a complete derived 53-cell final; do not falsely claim this calculation is already finished. Source: research/conversation-audit-2026-11-16.md.
+
+**Presentation locked:** photo/card left, data right, remaining ratings below. No unrelated image searches.
