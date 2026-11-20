@@ -60,3 +60,7 @@ Original Library source: A1_Current_Conversation_Photo_Filing_Checkpoint_2026-10
 
 - Original #8 was identified as **Walter Payton #34 and Mike Adamle #20**.
 - The checkpoint said its exact original source file was not recoverable from that conversation inventory; preserve identification without claiming new image bytes were recovered.
+
+## October 10 Batch 6 photographic-cover inventory (source record)
+
+`Batch6_README.txt` reports nine user-supplied images `10475.jpg`–`10483.jpg`, comprising seven historical fan-ranking graphics, one **Sports Illustrated Walter Payton 1982 photographic cover**, and one McMahon/Payton collage. It says this cover is distinct from three previously archived Payton photographs and records a then-current count of **four qualifying historical photographs**, subject to the archive's conventions. This is a historical batch claim, not a fresh binary inspection or a current global photograph count. Collage figures do not count as independently stored photographs. The README does not identify which of the nine filenames corresponds to the cover or collage; do not assign one by sequence.
