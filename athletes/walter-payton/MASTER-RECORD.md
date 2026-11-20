@@ -53,3 +53,10 @@ Sweet T supplied five actual Madden 26 screenshots of Walter Payton #34, Chicago
 ## Original A1 Library record consolidation — November 19, 2026
 
 The original WALTER_PAYTON_A1_COMPLETE_LOCKED_PLAYER_RECORD.md was read directly from the A1 Library and copied verbatim to [LIBRARY_ORIGINAL_LOCKED_A1_RECORD.md](LIBRARY_ORIGINAL_LOCKED_A1_RECORD.md) in this same permanent player folder. Original Library record remains intact. This preserves the previous A1 build, equations, equipment and historical context, without creating a temporary folder or checkpoint. The complete Madden 26 88 OVR 53-attribute EA screenshot transcription remains in its own permanent card record.
+
+## Recovered October 12 photo-filing checkpoint facts
+
+Original Library source: A1_Current_Conversation_Photo_Filing_Checkpoint_2026-10-12.md. This is source evidence transferred into the permanent player master, not a new checkpoint.
+
+- Original #8 was identified as **Walter Payton #34 and Mike Adamle #20**.
+- The checkpoint said its exact original source file was not recoverable from that conversation inventory; preserve identification without claiming new image bytes were recovered.
