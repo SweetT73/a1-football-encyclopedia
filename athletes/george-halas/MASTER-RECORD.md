@@ -16,3 +16,8 @@ This GitHub entry permanently cross-references the previously reported Library p
 The October 10 A1 original ZIP **PART_04_of_04** was recovered and its image bytes verified against the October 14 SHA-256 reconciliation. The original `10561.jpg` is a **black-and-white photograph of two men conversing**, one wearing a cap and coat, the other wearing a coat. The existing A1 Library provenance labels **George Halas** as one subject, but the **second man's identity remains unverified**. It is a **shared group photograph, not a confirmed solo Halas portrait**.
 
 The same original ZIP also contains `10648.jpg`, showing a Bears No. 87 player with another man in a historical sideline photograph. Existing A1 Library provenance associates this photograph with Halas, but the picture alone does not establish that the second man is Halas or identify the exact date. **No image bytes were newly transferred to GitHub** and neither original was deleted. Both remain original-source evidence requiring final attribution.
+
+
+## Settled A1 photograph filing — 2026-10-10 originals
+
+- `10561.jpg` (SHA-256 `df47882255c751a986ad5c12e5ff9a883f12e9105b179f1720aee80bf25c4074`) is an established **George Halas photograph**. Its permanent player destination is George Halas, even while the second pictured person remains unidentified. The unresolved secondary identity must not block placement. Cross-file an original-preserving copy to the second person's record when identified. The reconciliation sheet previously marked the image awaiting placement; that is a historical status, not a controlling classification. **This record documents the required destination; it does not assert that the image binary has been transferred.**
