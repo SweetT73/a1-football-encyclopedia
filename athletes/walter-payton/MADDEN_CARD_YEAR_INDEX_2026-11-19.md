@@ -32,3 +32,17 @@ SPD 98; ACC 98; AGI 99; STR 88; JMP 99; TRK 97; COD 99; BCV 98; SFA 94; SPM 98; 
 SPD 86; ACC 82; AGI 84; AWR 81; STR 70; JMP 85; RET 84; CAR 80; BCV 87; JKM 84; SPM 80; TRK 70; SFA 73; COD 87; BTK 87; CTH 80; CIT 66; SRR 70; MRR 60; DRR 58; SPC 77; RLS 70.
 
 **Schema note:** ELU in Madden 19/20 is not the same published field as modern COD; retain separate and use established A1 mapping if needed. Do not invent 53-field data or confuse card OVR with A1 true OVR. User prefers photo left, attributes right.
+
+## Expanded inventory correction — November 19, 2026
+
+Earlier index was **incomplete**, not an exhaustive count. The following additional card editions/OVRs are sourced. Do not count duplicate listings as unique unless editions distinguish them.
+
+- **Madden 19:** 98 Ultimate Legends; 95 Harvest; two distinct 95 Ultimate Legends; 90 OOP QB; 90 Ultimate Legends; 90 Madden Bowl; 89 Ultimate Legends; 88 Ultimate Legends; 80 Power Up. Source https://www.muthead.com/19/players/64099/ . At least **10 listed card entries**, with 95 UL duplicated as separate entries on source (needs edition-specific confirmation).
+- **Madden 20:** 99, 97, 95, 91, 90, 89 Ultimate Legends; 95 Zero Chill; 77 Power Up. At least **8 listed entries**. 91 UL is QB OOP. Source https://www.muthead.com/20/players/54229/ .
+- **Madden 22:** 97 Super Bowl Past; 97 Redux; 96 Legends LTD; 95, 93, 91, 90, 89, 88 Legends; 85 and 83 Power Up. At least **11 listed entries**. Source https://www.muthead.com/22/players/12910895/ .
+- **Madden 23:** 99, 93, 89 Ultimate Legends; 92, 89, 84 AKA; 97 OOP CB. At least **7 listed entries**. Sources https://www.muthead.com/23/players/34027505/ and https://www.mut.gg/news/ultimate-legends-w-payton-r-sherman-ltd-d-clark-and-ltd-t-hendricks-madden-ultimate-team-23/ .
+- **Madden 24:** 99, 94, 91 Ultimate Legends; 89, 86, 83, 80 Legends; 97 OOP QB. At least **8 listed entries**. Source https://www.muthead.com/24/players/44027505/ and https://www.muthead.com/24/players/44127505/ .
+- **Madden 26:** 88 Legends HB, all 53 attributes directly supplied by Sweet T; 96 Ultimate Legends HB and 93 Ultimate Legends OOP QB, with OOP upgrade path to 96. Source https://www.mut.gg/news/ultimate-legends-part-1-walter-payton-vince-wilfork-ltd-boomer-esiason-and-more/ . At least **3 distinct confirmed base card entries**, excluding upgrade states.
+- **Madden 27:** 86 Legends LTD HB; 86 Redux HB. At least **2 entries**. Source https://www.mut.gg/players/27505-walter-payton/27-168027505/ .
+
+**Subtotal at least 49 listed entries** across these seven editions (10+8+11+7+8+3+2). This is a **provisional inventory subtotal, not a complete lifetime total**. Madden 21 and Madden 25 still need separate edition searches; older Madden years not yet systematically audited. Also check whether 19 repeated 95 Ultimate Legends represent distinct cards; avoid inflating final counts. A1 annual representative should use high OVR HB and direct EA attributes, with one complete 88 Madden 26 baseline as anchor; do not force Sweet T to open games for other fields.
