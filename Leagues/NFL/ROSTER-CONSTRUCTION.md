@@ -138,3 +138,16 @@ Source: Library `A1_Conversation_Filing_Receipt_2026-10-11.md`. Historical recei
 - Historical notes: `players/DARIN_ALAN_DABELGOTT_WOODSBORO_A1.md`, `players/DAVID_SMITH_DALLAS_PRO_FB_A1.md`, `research_leads/DAVID_SMITH_JR_BANQUETE_1992_ON_HOLD_A1.md`, `handoffs/MADDEN_A1_Bears_70_HeadPass_User_Decisions_2026-10-11.md`. Darin Dabelgott and Dallas David Smith are distinct; Banquete David Smith Jr. stays **ON HOLD**.
 - Preserve **13→16→41** original Bears order, **29 user-observed skin-color mismatches**; **13 provisional v14 swaps not approved**. No actual Team Builder rendering or 93% face validation occurred in that filing operation.
 - Phone copies: only the exact numbered 27 screenshots and 330-head ZIP were reportedly byte-matched. **Do not delete** protected roster original, different edits, other historical photos, unchecked derived images, link-only assets or sole local working packets. Do not confuse provisional assignments with successful skin-color correction.
+
+
+## November 7, 2026 Bears 70 face-review candidate register
+
+Source: Library `A1_Madden27_70_Face_Candidates_Current.md` (dated November 7, 2026; complete source read November 20). This is a historical **proposal register**, not approval to change the protected roster or to reopen any later settled player identification.
+
+| Player | Proposed numbered generic head | Source approval status |
+|---|---|---|
+| Bronko Nagurski | HEAD248 | Proposed, not approved in source |
+| Sid Luckman | HEAD225 | Proposed, not approved in source |
+| Gale Sayers | HEAD152 | Proposed, not approved in source |
+
+Source instructions: preserve all 262 existing generic heads and historical player photographs; the face-review display puts the **real player photo on LEFT** and the **actual numbered Madden in-game head on RIGHT**, with players stacked vertically. Skin tone is a pass/fail prerequisite to facial resemblance; no AI-generated substitute heads. Record any selection only after Sweet T approval. The source reports all other Bears head choices unapproved as of November 7, with each of the three candidates also recorded in its respective player folder as `Madden27_Head_Candidate.md`. Preserve all 70 roster ratings, equipment, identities, and non-face fields. This source is a review tracker, **not** a roster import. Later user approvals, if present in permanent records, take precedence over its historical status.
