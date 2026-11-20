@@ -48,3 +48,21 @@ DO NOT DELETE YET:
 
 PREVIOUSLY DISCARDED:
 - No additional current-conversation item is newly classified as previously discarded by this filing supplement.
+
+## October 14 original candidate addendum — preserved source
+
+# Madden 27-A1 — What Could Have Been / Against the Odds Draft-Class Candidate Addendum
+Date preserved: 2026-10-14
+Source: current A1 Bears/Team Builder conversation
+
+## Sweet T additions
+These three real players are preserved as candidates for the separate A1 “What Could Have Been / Against the Odds” draft-class pool. This does not place them on the locked Chicago Bears 70-man roster.
+
+- Jeff George — QB — candidate centered on elite arm talent and unrealized career ceiling.
+- David Carr — QB — candidate centered on development/environment and what his career might have looked like under different protection/development circumstances.
+- Courtney Brown — DE — candidate centered on high-end talent / No. 1-pick expectations and an injury-interrupted professional career.
+
+## Handling rule
+- Candidate pool only; not an automatic final draft-class lock.
+- Historical A1 master record remains the controlling real-world record.
+- Any what-if ratings, age translation, or alternate career treatment must be labeled as themed reconstruction and kept separate from historical truth.
