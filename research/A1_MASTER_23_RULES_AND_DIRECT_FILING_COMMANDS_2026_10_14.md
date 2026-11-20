@@ -495,3 +495,124 @@ If even one required item is missing, inaccessible, unfiled, or unverified, NEVE
 **NONNEGOTIABLE FORMATTING:** Use the literal emoji **✅**, NOT a drawn icon, green circle, standalone checkmark, colored badge, or symbol on another line. Place **✅** directly beside **SAFE TO DELETE** every single time. Do not paraphrase or abbreviate the notice. Do not recommend archiving a completed conversation as an alternative to deletion. Do not claim the conversation is safe to delete before all required original files and A1 records are verifiably preserved. Never confuse deletion of a ChatGPT conversation with deleting phone-local photographs or freeing phone storage.
 
 **WORKFLOW: RECOVER → FILE → VERIFY → EXACT STATUS NOTICE → NEXT CONVERSATION.**
+
+
+---
+
+## Compact original master directive source (October 14, 2026)
+
+The following exact original is retained as a historical source; the latest user execution order remains controlling.
+
+# MADDEN 27-A1
+# MASTER CONVERSATION RECOVERY, IDENTIFICATION, DIRECT PERMANENT FILING, HISTORICAL CROSS-REFERENCE, PRESERVATION AND CONTINUOUS EXECUTION DIRECTIVE
+**23 HARD-AND-FAST CONTROLLING RULES — EFFECTIVE IMMEDIATELY**
+
+**BEGIN WORK IMMEDIATELY. CONTINUE AUTOMATICALLY WITHOUT REPEATED PERMISSION.**
+
+**CONVERSATIONS FIRST. IDENTIFY → FILE → CONFIRM SAVE → RETRY IF NECESSARY → REPORT → NEXT ITEM. PERMANENT FILES FIRST; CHECKPOINTS LAST.**
+
+This directive governs every accessible A1 conversation, image, archive, player/team record, historical fact, correction, approval and filing instruction. Sweet T's settled decisions remain final unless he explicitly changes them.
+
+## I. CONVERSATION RECOVERY AND IMMEDIATE FILING
+
+### 1. RECOVER EVERY ACCESSIBLE CONVERSATION
+Read each accessible Madden 27-A1 conversation from beginning to end, beginning with the current one. Extract its actionable information before proceeding to the next. Do not replace conversation recovery with general folder auditing.
+
+### 2. EXTRACT EVERY RELEVANT ITEM
+Recover photographs, image references, players, teams, college/pro associations, numbers, years, historical facts, research, attachments, archives, instructions, corrections, approvals, rejections, records and cross-filing decisions. Include material not associated with an image.
+
+### 3. IDENTIFY, FILE, CONFIRM SAVE, AND CONTINUE
+**IDENTIFY IT. FILE IT. CONFIRM IT IS SAVED. MOVE ON.**
+1. IDENTIFY from conversation and settled Sweet T decisions; never reopen a settled identification.
+2. FILE immediately into the correct permanent A1 player, team, subject, or master record.
+3. CONFIRM SAVE; if saving fails, retry through another authorized method until saved or a genuine blocker remains.
+4. REPORT only confirmed success; if blocked, report the specific blocker and preserve the source.
+5. CONTINUE immediately to the next actionable item.
+
+**NO CHECKPOINTS FIRST. NO TEMPORARY FILING IN PLACE OF PERMANENT FILING. NO REPEATED IDENTIFICATIONS. NO ABANDONING A FAILED SAVE WHILE AN AUTHORIZED METHOD REMAINS AVAILABLE.**
+
+### 4. NO FALSE COMPLETION BLOCKER — FILE FACTS AS THEY ARE RECOVERED
+Do not delay filing known, settled information merely because other conversation material remains unfinished. Every recovered photograph, historical fact, decision, correction, or instruction is independently actionable as soon as its identification and permanent destination are established. A checkpoint is not proof of permanent filing. An unfinished conversation is not a reason to postpone an already identified item.
+
+### 5. PRESERVE ORIGINAL CONVERSATION CONTEXT
+For every photograph, recover the immediately preceding and following discussion, submission position, description, later correction and final approval. An identity may be established by context without the filename being spoken. Do not assume adjacent images share a subject when discussion changes subjects.
+
+### 6. RESPECT ESTABLISHED IDENTIFICATIONS AND DECISIONS
+Sweet T's identifications, approvals, corrections and destinations are final unless explicitly changed. Later explicit corrections supersede earlier ones. Never reopen, challenge, second-guess or redundantly investigate settled decisions. Do not ask him to repeat recoverable information.
+
+### 7. COMPLETE EACH CONVERSATION BEFORE ADVANCING
+Work through all accessible material in the current conversation and file each actionable item as encountered. Distinguish confirmed filings, unresolved questions and inaccessible items. A conversation is not complete because a checkpoint exists.
+
+## II. PHOTOGRAPH IDENTIFICATION AND CLASSIFICATION
+
+### 8. LOCATE AND EXAMINE EVERY ACCESSIBLE PHOTOGRAPH
+Find photographs, attachments, original images, cards, publication references, team/group images and archive members associated with the conversation. Inspect the actual image individually when needed. Preserve its source and conversation context.
+
+### 9. USE EXISTING A1 RECORDS ONLY AS NEEDED
+Consult folders, manifests, filenames, ZIP paths, CSV/JSON, jersey-number records and historical sources to recover established assignments, locate destinations, avoid duplicate filing and confirm saves. General folder reconciliation is secondary until conversation recovery is complete.
+
+### 10. READ VISIBLE JERSEY NUMBERS FOR GENUINELY UNRESOLVED IDENTITIES
+Record every clearly visible jersey number separately. Never invent unreadable digits. Numbers are clues, not conclusive identities.
+
+### 11. CROSS-REFERENCE UNRESOLVED APPEARANCES
+Only for unresolved subjects, consult A1 jersey history and compare facial features, body, uniform and relevant historical references. Never use this to overturn a settled identification.
+
+### 12. CHECK COLLEGE AND PROFESSIONAL HISTORY
+For unresolved identifications, check college/pro teams, playing years, jersey numbers, career overlap and era-appropriate equipment. Evaluate multiplayer possibilities without guessing.
+
+### 13. ACCOUNT FOR EVERY REASONABLY RECOGNIZABLE PERSON
+Audit visible people in each team/group photo; distinguish confirmed from unresolved. Do not transfer identifications across photos or angles without evidence. Bring genuine unresolved conflicts to Sweet T only after available recovery.
+
+### 14. HONOR PRIMARY SUBJECTS AND CROSS-FILING
+Preserve established primary/action subject, Chicago Bears, team/group, college/pro, trading-card and publication classifications. File under every authorized subject. An unresolved secondary person does not block filing an established primary subject.
+
+## III. PERMANENT PRESERVATION AND SAVE CONFIRMATION
+
+### 15. SAVE DIRECTLY TO THE CORRECT PERMANENT DESTINATION
+Photographs go to established player/team/subject photograph folders; historical facts, ratings, dates, appearance details, research, approvals and corrections go into their appropriate permanent subject records; master directives go into permanent master rules. Never substitute a checkpoint for these files.
+
+### 16. PRESERVE ORIGINALS AND EXISTING RECORDS
+Never independently delete, overwrite, alter, discard, replace or consolidate originals, ZIPs, valid duplicates, manifests, player records or historical sources. Destructive changes require Sweet T's explicit direction. Preserve originals when copying.
+
+### 17. CONFIRM EVERY SAVE AND USE EXACT STATUS REPORTS
+Use:
+- FILED AND SAVED — [player/item] — [filename]
+- ALREADY FILED AND SAVED — [player/item] — [filename]
+- NOT SAVED — [player/item] — [specific reason]
+
+### 18. PREVENT DUPLICATE WORK WITHOUT DISCARDING VALID COPIES
+Recognize previously identified and filed items, including alternate filenames and legitimate cross-filed copies. A preserved original remaining in a holding folder does not itself mean the item is unfiled.
+
+### 19. CHECKPOINTS ARE OPTIONAL AND ALWAYS LAST
+Only after the correct permanent filing and save confirmation may a checkpoint, receipt or handoff summarize completed work.
+
+## IV. CONTINUOUS EXECUTION AND ACCOUNTABILITY
+
+### 20. KEEP COMPLETE PERMANENT RECORDS
+Maintain source conversation/context, original filename/archive, identified subjects, jersey numbers, years, teams, decisions, classification, cross-filings, destination, confirmed save status and genuinely unresolved questions in the appropriate permanent records.
+
+### 21. CONTINUE WITHOUT UNNECESSARY QUESTIONS
+Proceed through all accessible actionable items without stopping after one photo, player, archive or conversation. Ask only about a genuine unresolved identity, material conflict, destination or blocker.
+
+### 22. PROVIDE ACCURATE PHONE-STORAGE ACCOUNTING
+When completing a preservation audit, distinguish SAFE TO DELETE FROM PHONE, DO NOT DELETE YET and PREVIOUSLY DISCARDED. Never declare phone deletion safe without confirmed preservation.
+
+### 23. REPORT COMPLETION TRUTHFULLY
+Report conversations examined, information permanently filed, photographs confirmed/newly saved, unresolved issues, inaccessible materials and remaining work. Never claim a complete search or successful filing without save confirmation.
+
+## STANDING OPERATING PRINCIPLE — CONVERSATION DELETION STATUS (NOT A NUMBERED RULE)
+After completing filing for a specific A1 conversation, do not suggest archiving instead of deletion. Explicitly report exactly one of:
+- SAFE TO DELETE THIS CONVERSATION — All required A1 information, original photographs and attachments have been verified in their correct permanent records; nothing necessary remains exclusively in the chat.
+- DO NOT DELETE THIS CONVERSATION YET — [Specify each unfiled, unverified, inaccessible or conversation-only item.]
+
+Before declaring safe, recover and permanently file all actionable information and media, verify the saves and contextual decisions, and ensure that no unique source remains only in the conversation. Deleting a chat does not necessarily clear downloaded files or phone app cache; treat phone storage separately. Never assert that deleting the chat will free a specific amount of phone space.
+
+## MANDATORY EXECUTION ORDER
+READ CONVERSATION → RECOVER ITEM AND CONTEXT → APPLY SETTLED IDENTITY OR RESEARCH GENUINE UNCERTAINTY → IDENTIFY CORRECT PERMANENT DESTINATION → FILE DIRECTLY → CONFIRM SAVE → RETRY IF NOT SAVED → REPORT → NEXT ITEM → NEXT CONVERSATION.
+
+For genuinely unresolved identification only:
+EXAMINE PHOTO → READ VISIBLE NUMBERS → SEARCH A1 NUMBER HISTORY → COMPARE REFERENCE FACES → CHECK PLAYING YEARS → CROSS-REFERENCE OVERLAP → RESOLVE GENUINE CONFLICT → FILE AND CONFIRM SAVE.
+
+**NO CHECKPOINTS FIRST. NO TEMPORARY FILES IN PLACE OF PERMANENT RECORDS. NO REOPENING SETTLED IDENTIFICATIONS. NO GENERAL FOLDER AUDIT IN PLACE OF CONVERSATION EXTRACTION.**
+
+This integrated 23-rule directive supersedes the earlier 17-, 20-, 21-rule and separate Rule 22 texts wherever overlapping. All established decisions and nondestructive preservation requirements remain in force.
