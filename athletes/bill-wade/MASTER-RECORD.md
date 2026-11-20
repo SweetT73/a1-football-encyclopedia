@@ -23,3 +23,8 @@ Full game-by-game statistics, independent image-file integrity check and convers
 - The **Chicago Bears' March 10, 2016 obituary** confirms Wade was the starting quarterback on the **1963 NFL championship team** and gives his Chicago totals across six seasons as **767 completions in 1,407 attempts, 9,958 passing yards, 68 touchdown passes and 66 interceptions**. These are **Bears-only totals**, not his complete NFL career. [Chicago Bears, “Ex-Bears QB Bill Wade passes away,” March 10, 2016](https://www.chicagobears.com/news/ex-bears-qb-bill-wade-passes-away-16919693).
 - The Bears report that in the **1963 title game** against the New York Giants, Wade completed **10 of 28 passes for 138 yards** and scored Chicago's only two touchdowns on **1-yard and 2-yard quarterback sneaks**. [Same original team account](https://www.chicagobears.com/news/ex-bears-qb-bill-wade-passes-away-16919693).
 - Wade died **March 9, 2016**, aged **85**, according to the Bears' March 10 announcement.
+
+
+## Settled A1 photograph filing — 2026-10-10 originals
+
+- Bill Wade originals `10398.jpg`, `10548.jpg`–`10560.jpg` (except `10561.jpg`, which belongs to George Halas), and `10562.jpg`–`10564.jpg` are recorded in the October 14 reconciliation with Bill Wade player destinations, including cross-filed images `10557.jpg` (Mike Ditka) and `10559.jpg` (Sid Luckman memorabilia). The existing Bill Wade destinations remain controlling; do not reclassify these as unresolved. **This record confirms the assigned player destinations, not a new image-binary transfer.**
