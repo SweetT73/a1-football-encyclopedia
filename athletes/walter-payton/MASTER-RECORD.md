@@ -49,3 +49,7 @@ An existing A1 conversation-audit comparison describes a **November 8, 2026 Driv
 ## Direct complete Madden 26 Legends card — 88 OVR — November 19, 2026
 
 Sweet T supplied five actual Madden 26 screenshots of Walter Payton #34, Chicago Bears, 88 OVR Legends Elusive Back HB, 5'10\" and 200 lb, showing **all 53 attributes**. Full exact transcription and five screenshot source filenames are in [MADDEN_26_LEGENDS_88_HB_53_ATTRIBUTES_2026-11-19.md](MADDEN_26_LEGENDS_88_HB_53_ATTRIBUTES_2026-11-19.md). This is the **complete EA-observed 53-field anchor** for Payton's A1 Madden 27 calculations. Preserve separately from other card editions and the protected earlier A1 97 OVR build; do not overwrite either. Year identified by user, not independently displayed in screenshot. Direct EA cells override equation-based estimates for their own card; other card-year missing cells may be derived and clearly marked. Display card/photo left, player data right.
+
+## Original A1 Library record consolidation — November 19, 2026
+
+The original WALTER_PAYTON_A1_COMPLETE_LOCKED_PLAYER_RECORD.md was read directly from the A1 Library and copied verbatim to [LIBRARY_ORIGINAL_LOCKED_A1_RECORD.md](LIBRARY_ORIGINAL_LOCKED_A1_RECORD.md) in this same permanent player folder. Original Library record remains intact. This preserves the previous A1 build, equations, equipment and historical context, without creating a temporary folder or checkpoint. The complete Madden 26 88 OVR 53-attribute EA screenshot transcription remains in its own permanent card record.
