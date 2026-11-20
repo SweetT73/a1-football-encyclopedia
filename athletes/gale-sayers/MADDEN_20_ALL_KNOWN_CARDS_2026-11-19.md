@@ -1,6 +1,6 @@
-# Gale Sayers #40 — Madden 20 — all 10 listed MUT card versions
+# Gale Sayers #40 — Madden 20 — nine listed MUT card versions
 
-Source https://www.muthead.com/20/players/54124/ (Other Versions), individual item pages where indicated. Ten entries, including two 97 OVR distinct releases: 97 Ultimate Legends, 97 Series Redux, 91 Legends Boss, 89 Legends Season, 87 Legends, 85 Legends Premier, 84 Legends Proven, 83 Legends Novice, 83 Legends (another listed variant), 76 Power Up. **Caution:** this source's Other Versions enumerates 9 other versions + current 97 = 10, but it lists only one 83 and one 87; confirmed total is **9** (97 UL, 97 Redux, 91,89,87,85,84,83,76). Do not infer a second 83. The version count should be 9.
+Source https://www.muthead.com/20/players/54124/ (Other Versions), individual item pages where indicated. Nine listed entries, including two 97 OVR distinct releases: 97 Ultimate Legends, 97 Series Redux, 91 Legends Boss, 89 Legends Season, 87 Legends, 85 Legends Premier, 84 Legends Proven, 83 Legends Novice, and 76 Power Up. The source lists eight other versions plus the current 97 Ultimate Legends card. Do not invent a duplicate 83.
 
 ## Actual published ratings (19 each; old ELU schema)
 
