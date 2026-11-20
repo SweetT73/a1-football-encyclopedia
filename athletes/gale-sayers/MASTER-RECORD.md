@@ -74,3 +74,8 @@ Original Library source: A1_Current_Conversation_Photo_Filing_Checkpoint_2026-10
 ### October 14 source-context detail for `10627.jpg`
 
 The original `Gale_Sayers_Conversation_Filing_Context_2026-10-14.md` states that the image has a readable Gale Sayers name/signature and jersey **40**. It also observes a second Bears player wearing **10**, whose identity was unresolved. The source expressly forbids transferring this identification to adjacent filenames without their own conversation context. It reported a prior verified save under `Gale_Sayers/Photographs`, while playing years were not independently researched. Preserve original archive membership, image bytes and valid cross-filed copies. This paragraph records the source's claims, not a new image-file verification.
+
+
+## November 7 Madden 27 generic-head candidate — not approved
+
+Source: Library `Madden27_Head_Candidate.md`, Sweet T's November 7 comparison. **HEAD152** is a proposed generic head for Gale Sayers (#40), not an approved assignment or a change to the protected 70-player roster. Skin-tone group: dark; select the correct in-game skin tone first and then facial likeness. The established reference is the original Gale Sayers portrait in `Gale_Sayers/Photographs`. Earlier light-toned candidates were not approved. Only an existing Madden 27 generic head is authorized, not an AI-created likeness. Do not represent HEAD152 as applied or approved.
