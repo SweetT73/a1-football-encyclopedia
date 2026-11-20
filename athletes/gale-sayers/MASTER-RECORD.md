@@ -46,3 +46,7 @@ Sweet T approved finishing Gale Sayers using the **complete 91 OVR Madden 26 Fla
 **Known A1 comparator methodology recovered from A1 research audit:** 78% player-specific historical anchor + 22% position/OVR comparator prediction; then narrow documented archetype adjustments; directly observed EA attributes override computed estimates. The specific comparator data, per-attribute mapping and rounding procedure still need to be recovered before responsibly calculating a complete derived 53-cell final; do not falsely claim this calculation is already finished. Source: research/conversation-audit-2026-11-16.md.
 
 **Presentation locked:** photo/card left, data right, remaining ratings below. No unrelated image searches.
+
+## Original A1 Library record consolidation — November 19, 2026
+
+The original GALE_SAYERS_A1_COMPLETE_FOR_NOW_PLAYER_RECORD.md was read directly from the A1 Library and copied verbatim to [LIBRARY_ORIGINAL_LOCKED_A1_RECORD.md](LIBRARY_ORIGINAL_LOCKED_A1_RECORD.md) in this same permanent player folder. Original Library record remains intact. This preserves the previous A1 build, equations, equipment and historical context, without creating a temporary folder or checkpoint. A Madden 20 nine-card inventory with 133 observed numerical attribute values is filed at [MADDEN_20_ALL_KNOWN_CARDS_2026-11-19.md](MADDEN_20_ALL_KNOWN_CARDS_2026-11-19.md).
