@@ -59,3 +59,13 @@ The original GALE_SAYERS_A1_COMPLETE_FOR_NOW_PLAYER_RECORD.md was read directly 
 - Madden 20: all nine listed versions catalogued; **152 published individual numerical attributes from eight cards**, with 97 Redux attributes pending. See permanent Madden 20 file.
 
 **Archive audit limitation:** the two original named Library player records have been preserved verbatim in their permanent individual GitHub folders. GitHub code search showed no obvious standalone temporary or checkpoint file in either player's individual athlete folder, but this is not an exhaustive audit of the paginated A1 Library and its backup/export folders. No deletion or claim of comprehensive clearance.
+
+## Recovered October 12 photo-filing checkpoint facts
+
+Original Library source: A1_Current_Conversation_Photo_Filing_Checkpoint_2026-10-12.md. This is source evidence transferred into the permanent player master, not a new checkpoint.
+
+- Gale Sayers **1968 injury set — three files** was marked already filed and saved in that source.
+- Original #7: Gale Sayers #40 versus 49ers; additional player numbers not confirmed.
+- Original #18: Gale Sayers #40 with Mike Ditka #89.
+- Original #24: Gale Sayers #40 with Dick Butkus #51 and Jim Dooley.
+- For originals #7, #18, #24 the checkpoint explicitly said exact source files were not recoverable from that conversation inventory, so do not falsely mark their image bytes as recovered or newly saved.
