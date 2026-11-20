@@ -49,4 +49,13 @@ Sweet T approved finishing Gale Sayers using the **complete 91 OVR Madden 26 Fla
 
 ## Original A1 Library record consolidation — November 19, 2026
 
-The original GALE_SAYERS_A1_COMPLETE_FOR_NOW_PLAYER_RECORD.md was read directly from the A1 Library and copied verbatim to [LIBRARY_ORIGINAL_LOCKED_A1_RECORD.md](LIBRARY_ORIGINAL_LOCKED_A1_RECORD.md) in this same permanent player folder. Original Library record remains intact. This preserves the previous A1 build, equations, equipment and historical context, without creating a temporary folder or checkpoint. A Madden 20 nine-card inventory with 133 observed numerical attribute values is filed at [MADDEN_20_ALL_KNOWN_CARDS_2026-11-19.md](MADDEN_20_ALL_KNOWN_CARDS_2026-11-19.md).
+The original GALE_SAYERS_A1_COMPLETE_FOR_NOW_PLAYER_RECORD.md was read directly from the A1 Library and copied verbatim to [LIBRARY_ORIGINAL_LOCKED_A1_RECORD.md](LIBRARY_ORIGINAL_LOCKED_A1_RECORD.md) in this same permanent player folder. Original Library record remains intact. This preserves the previous A1 build, equations, equipment and historical context, without creating a temporary folder or checkpoint. A Madden 20 nine-card inventory with 152 observed numerical attribute values is filed at [MADDEN_20_ALL_KNOWN_CARDS_2026-11-19.md](MADDEN_20_ALL_KNOWN_CARDS_2026-11-19.md).
+
+## Additional confirmed card variants — November 19, 2026
+
+- Madden 25: 94 OVR Legends LTD **and** 94 OVR Redux, separate card versions (Muthead listing https://www.muthead.com/25/players/?page=13&program=444 ; release https://www.mut.gg/news/legends-richard-sherman-todd-heap-ltd-gale-sayers-and-more-mut-25/ ).
+- Madden 26: 91 OVR Legends LTD, separate from Sweet T's complete 91 OVR Flashbacks screenshot (https://www.mut.gg/news/legends-part-10-kurt-warner-jason-taylor-and-ltd-gale-sayers/ ).
+- Madden 26: 99 OVR Flashbacks exists as a published release (https://www.mut.gg/news/flashbacks-part-14-gale-sayers-devin-white-ltd-xavier-woods-and-more/ ), but **full card attributes not recovered**, and it must not replace the screenshot 91.
+- Madden 20: all nine listed versions catalogued; **152 published individual numerical attributes from eight cards**, with 97 Redux attributes pending. See permanent Madden 20 file.
+
+**Archive audit limitation:** the two original named Library player records have been preserved verbatim in their permanent individual GitHub folders. GitHub code search showed no obvious standalone temporary or checkpoint file in either player's individual athlete folder, but this is not an exhaustive audit of the paginated A1 Library and its backup/export folders. No deletion or claim of comprehensive clearance.
