@@ -96,3 +96,19 @@ DO NOT DELETE YET: other files lacking verified required player/subject destinat
 PREVIOUSLY DISCARDED: earlier explicit rejection of 10467.jpg was recovered; this does not establish physical deletion. No new disposal occurred. No additional file is declared discarded solely because it cannot be located.
 
 DO NOT DELETE THIS CONVERSATION YET — The kneeling George/Atkins filename and remaining established assignments listed above are not recovered, and all required photograph/archive filings have not been verified complete.
+
+## Original October 14 source: 10691.jpg preservation and unresolved placement
+
+# 10691.jpg — original preserved; placement unresolved
+
+The earlier gray/truncated display came from an incomplete 50,176-byte temporary working copy. It was not evidence of damage to the saved original. That temporary copy was retained unchanged.
+
+Both separately retrieved permanent files are intact, decode fully, and contain identical 395,045-byte contents:
+- /10691.jpg — libfile_51facf4758148191a5b9485bfce7a88f
+- A1 Historical Player Encyclopedia/_Preserved_Originals_Awaiting_Placement/2026-10-13/10691.jpg — libfile_7692e170e2748191993bc96d70113bfc
+
+SHA-256 for each: 5f07278e9be5506a86fd9144d66d6095b70e6ef38076fe5bb02caca82de04dc5
+
+Actual image examined: black-and-white football action, primary ball carrier wearing 47, opponent wearing 35. Other people are distant and not individually resolved. No facial identification was performed. No player identity or destination was inferred merely from the number or adjacent files. Original source archive recorded as A1_Bears_Conversation_Photos_and_Records_2026-10-11.zip, member original_photographs/10691.jpg.
+
+Prior user assignment was sought in surviving conversation context but not recovered. This is not proof that Sweet T never assigned it. Keep the original and recover the existing decision before filing to a player folder. An intact original has been verified, so a replacement from the phone is not required for corruption recovery. This verification record is not a newly filed player photograph.
