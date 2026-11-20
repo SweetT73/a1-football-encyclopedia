@@ -95,3 +95,32 @@ For each player: finish **actual-position cards** and calculate the actual-posit
 ## Historical football nicknames — unresolved identity-mapping leads (conversation recovery)
 
 Sweet T supplied the following nickname set for the A1 Madden historical-player workstream, in this order: **Minister of Defense; Samurai; Crazy Legs; Mad Stork; Goose; Butterball; Broadway Joe; Mercury Morris; Peanut; Pacman; The Snake; Dracula in Cleats; The Danimal; Mongo.** These spellings and sequence are user-supplied research leads, **not** verified player-to-nickname assignments or evidence that each nickname belongs to a unique athlete. Before attaching a nickname to a player record, establish the intended person, relevant era, and supporting source; do not generate duplicate player identities from nicknames or infer Madden card ratings from them. This is an unresolved identification list, not a completed roster or an authorization to modify the protected 70-player Bears build.
+
+## Warren Moon — current 51-anchor and 15-point display (November 19, 2026)
+
+**Direct user correction:** The Long Snap **45** belongs to an **existing specialist long snapper on Sweet T's Madden fantasy-draft roster**; it is an observed in-game attribute, **not** a universal threshold or a 45-point skill standard. Do not misattribute this rating to Moon. Sweet T explicitly required retaining all previously encountered Moon numbers and their source associations even when a later working model is selected.
+
+**Current A1 Moon QB working model:** A previously recovered Moon Long Snap **51** is associated with a projected **92 OVR** QB card. Its original derivation is not recovered, so retain the number and association without claiming original EA provenance. For playable reconstruction only, calculate `LS = round_half_up(51 × QB_OVR / 92)`. This replaces the earlier **80-at-94** proportional model *as the current working Long Snap calculation*, not as a deletion of that model or its underlying custom-card observation. **Release is separate:** `RLS = round_half_up(25 × QB_OVR / 94)`, using the earlier reported custom-card Release 25 at OVR 94. Neither formula establishes a real correlation between overall and long-snapping skill or represents an original EA attribute.
+
+**15-point display:** Convert the already-calculated 0–99 field with `round_half_up(attribute × 15 / 99)`; do **not** infer a 0–99 attribute from a QB overall alone by merely adding one point per card. The 15-point values are presentation conversions, not authenticated ratings on a different game engine. The 16 working representative QB rows are:
+
+| Card | QB OVR | LS /99 | LS /15 | Release /99 | Release /15 |
+|---|---:|---:|---:|---:|---:|
+| Madden 1992 | 99 | 55 | 8 | 26 | 4 |
+| Madden 1993 | 86 | 48 | 7 | 23 | 3 |
+| Madden 1994 | 89 | 49 | 7 | 24 | 4 |
+| Madden 1995 | 96 | 53 | 8 | 26 | 4 |
+| Madden 1996 | 86 | 48 | 7 | 23 | 3 |
+| Madden 1997 | 83 | 46 | 7 | 22 | 3 |
+| Madden 1998 | 83 | 46 | 7 | 22 | 3 |
+| Madden 1999 | 92 | 51 | 8 | 24 | 4 |
+| Madden 2000 | 83 | 46 | 7 | 22 | 3 |
+| Madden 2001 | 79 | 44 | 7 | 21 | 3 |
+| MUT 13 | 95 | 53 | 8 | 25 | 4 |
+| MUT 15 | 98 | 54 | 8 | 26 | 4 |
+| MUT 18 | 97 | 54 | 8 | 26 | 4 |
+| MUT 24 | 99 | 55 | 8 | 26 | 4 |
+| MUT 25 | 96 | 53 | 8 | 26 | 4 |
+| MUT 26 | 99 | 55 | 8 | 26 | 4 |
+
+Rounded 16-card working aggregate: QB OVR **91**, LS **51/99** (approximately **8/15**), Release **24/99** (approximately **4/15**). The historical Madden 1997 OVR **83 versus 84** discrepancy remains unresolved in the player record. Original source values and alternate LS **10, 16, 51, 77, 80, 84** remain separately retained. **Permanent player-level evidence and full calculation:** [Warren Moon A1 Drive profile](https://docs.google.com/document/d/1NIrBdkYXhjgVmKfqWJEAL9wWBEmaHmwqUa_ah4hfZaI/edit). This roster-methodology entry is a cross-reference, not a substitute player profile or a claim that Moon's full 53-attribute/OOP work is finished.
